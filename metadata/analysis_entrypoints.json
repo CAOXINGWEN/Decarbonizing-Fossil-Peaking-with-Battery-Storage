@@ -1,0 +1,11 @@
+{
+  "weather_inputs": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/weather_year_parity_v42/build_pecd_v42_hourly_panel.py",
+  "natural_year_dispatch": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/weather_year_parity_v42/compute_pecd_v42_75y_parity.py",
+  "efc_postprocessing": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue1_v67/scripts/build_efc_sources.py",
+  "capacity_expansion": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue2_v68/scripts/run_capacity_v68.py",
+  "capacity_summary": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue2_v68/scripts/assemble_results_v68.py",
+  "main_efc_figures": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue1_v67/scripts/plot_v67_figures.py",
+  "procurement_figures": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue2_v68/scripts/plot_procurement_v68.py",
+  "supplementary_figures": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue1_v67/scripts/plot_streamlined_supplements_v67.py",
+  "extended_data_figures": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/figure_revision_v69/scripts/plot_revised_figures.py"
+}

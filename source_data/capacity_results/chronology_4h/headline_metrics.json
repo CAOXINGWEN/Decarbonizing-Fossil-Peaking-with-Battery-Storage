@@ -1,0 +1,29 @@
+{
+  "country_count": 15,
+  "ensemble_count": 4,
+  "risk_weights": [
+    0.0,
+    0.5
+  ],
+  "material_power_threshold_percentage_points": 1.0,
+  "expected": {
+    "clustered_vs_dispersed_material_power_change_countries": 13,
+    "clustered_vs_dispersed_technology_set_change_countries": 2,
+    "clustered_vs_dispersed_dominant_technology_change_countries": 5,
+    "clustered_vs_dispersed_median_absolute_power_change_pp": 29.903990025219436,
+    "clustered_vs_dispersed_median_mix_total_variation_pp": 19.78207344870971,
+    "combined_vs_observed_material_power_change_countries": 13,
+    "combined_vs_observed_technology_set_change_countries": 1,
+    "combined_vs_observed_median_absolute_power_change_pp": 24.14081750006956
+  },
+  "mean_cvar90": {
+    "clustered_vs_dispersed_material_power_change_countries": 15,
+    "clustered_vs_dispersed_technology_set_change_countries": 3,
+    "clustered_vs_dispersed_dominant_technology_change_countries": 6,
+    "clustered_vs_dispersed_median_absolute_power_change_pp": 32.92420825614164,
+    "clustered_vs_dispersed_median_mix_total_variation_pp": 25.565339014527687,
+    "combined_vs_observed_material_power_change_countries": 14,
+    "combined_vs_observed_technology_set_change_countries": 3,
+    "combined_vs_observed_median_absolute_power_change_pp": 23.788327097164427
+  }
+}

@@ -1,0 +1,4 @@
+comparison,regime,maximum_absolute_difference_usd_kw_year,rmse_usd_kw_year
+efc_surface_vs_harmonized_4d,China,1.5502649830523294e-10,2.3180359407301774e-11
+efc_surface_vs_harmonized_4d,Europe,1.6713653035793642e-07,8.1419879962930651e-09
+efc_surface_vs_harmonized_4d,Japan,1.5789289875556275e-11,5.2532357426379729e-12

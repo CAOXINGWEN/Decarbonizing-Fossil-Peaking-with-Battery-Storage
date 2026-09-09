@@ -1,0 +1,16 @@
+country,expected_active_set,risk_aware_active_set,expected_selected_technology_count,risk_aware_selected_technology_count,expected_dominant_technology,risk_aware_dominant_technology,technology_set_change,dominant_technology_change,expected_total_power_percent_mean_gas,risk_aware_total_power_percent_mean_gas,risk_aware_minus_expected_power_percentage_points,material_power_change
+AT,caes_24h+li_lfp_4h,caes_24h+li_lfp_4h,2,2,caes_24h,caes_24h,False,False,105.1962845398167,78.983847670550063,-26.212436869266654,True
+BE,caes_24h+li_lfp_4h,caes_24h,2,1,caes_24h,caes_24h,True,False,26.381295214268651,25.954547552341531,-0.42674766192711822,False
+BG,caes_24h+li_lfp_4h,caes_24h+li_lfp_4h,2,2,li_lfp_4h,li_lfp_4h,False,False,27.846961069112677,31.185543514024062,3.3385824449113866,True
+CZ,li_lfp_4h,caes_24h+li_lfp_4h,1,2,li_lfp_4h,li_lfp_4h,True,False,50.891567401553431,90.246531603790501,39.354964202237078,True
+DE,caes_24h+li_lfp_4h,caes_24h,2,1,caes_24h,caes_24h,True,False,123.92139109707028,142.19962324643564,18.278232149365369,True
+DK,caes_24h+li_lfp_4h,caes_24h+li_lfp_4h,2,2,caes_24h,caes_24h,False,False,126.05315033825056,131.08492785996685,5.0317775217162852,True
+ES,caes_24h+li_lfp_4h,caes_24h+li_lfp_4h,2,2,caes_24h,caes_24h,False,False,67.979439813421124,68.397384612773024,0.41794479935191031,False
+FR,caes_24h+li_lfp_4h,caes_24h+li_lfp_4h,2,2,caes_24h,caes_24h,False,False,40.448971188909766,46.871046272497843,6.4220750835880747,True
+GB,caes_24h+li_lfp_4h,caes_24h+li_lfp_4h,2,2,caes_24h,caes_24h,False,False,46.678149460903917,44.002382202328661,-2.6757672585752568,True
+GR,caes_24h+li_lfp_4h,caes_24h+li_lfp_4h,2,2,li_lfp_4h,li_lfp_4h,False,False,96.431411146356723,113.35934269841732,16.927931552060606,True
+HR,caes_24h+li_lfp_4h,caes_24h+li_lfp_4h,2,2,caes_24h,caes_24h,False,False,30.112623432042174,13.844247046967478,-16.268376385074696,True
+IT,caes_24h+li_lfp_4h,caes_24h,2,1,caes_24h,caes_24h,True,False,30.405547541207689,50.427424886186458,20.021877344978765,True
+PT,caes_24h,caes_24h,1,1,caes_24h,caes_24h,False,False,53.779067202218975,75.150708164337303,21.37164096211832,True
+RO,caes_24h,caes_24h,1,1,caes_24h,caes_24h,False,False,14.139465701671028,24.889771820044452,10.750306118373429,True
+SI,caes_24h+li_lfp_4h,caes_24h+li_lfp_4h,2,2,li_lfp_4h,caes_24h,False,True,594.56317716395881,402.77172149777766,-191.79145566618115,True

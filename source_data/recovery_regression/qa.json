@@ -1,0 +1,22 @@
+{
+  "status": "pass",
+  "input": "joint_choice/natural_fixed_effect_panel.csv",
+  "input_sha256": "8c490a1238379018a7c90439093e419bd23c27b704e3ac1eef1e5e7019751afb",
+  "country_years": 132,
+  "countries": 15,
+  "minimum_years_per_country": 5,
+  "bootstrap_draws": 10000,
+  "loco_folds": 15,
+  "excluded_observations": 0,
+  "outcome": "natural_caes24_minus_lfp4_eur_kw_year",
+  "cost_comparator_usd_kw_year": 5.98448,
+  "outputs_sha256": {
+    "coefficient_summary.csv": "d7b9dadc042bae0f2bd93e0c9346ab71c2aab4c93360c2b3e0f64709a18a07f5",
+    "model_comparison.csv": "f3da9de796d8048fa9be721b54364c05a040f0abdf5e1747a4bb33024d0dcc83",
+    "loco_predictions.csv": "355a2793393937f636d2f3827a1f85149e600a9448e5ced4573d22ba8bad3b8c",
+    "country_loco_metrics.csv": "55899178dc7e3070baaa6a2186ad33d65b9fdc81031797afc8ffc618d5ed1bbb",
+    "analysis_panel_132_country_years.csv": "2d781a2317e43a58d6e77b72cc2d0febc062bb3ab67a6204ae3942fa671f803c",
+    "loco_country_bootstrap_metrics.csv": "562bd6c4ff394e784da8408937aeb17d50027bec548e2391f43ac45b20c7820c",
+    "recovery_window_incremental_macros.tex": "e48baef461f0d8efe32b6c611c998ac6a970b641e697da9a755cb0568af12bed"
+  }
+}

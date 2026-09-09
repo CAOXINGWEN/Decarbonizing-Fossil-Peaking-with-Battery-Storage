@@ -1,0 +1,91 @@
+country,risk_weight,design,config_id,tech_id,duration_h,capacity_per_normalized_mw,capacity_share_percent
+AT,0,Expected cost,li_lfp_4h,li_lfp,4,0.105663605578247,9.8334697595725409
+AT,0,Expected cost,caes_24h,caes,24,0.96886662801897483,90.166530240427477
+AT,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+AT,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.1144187903374048,11.53841079143286
+AT,0.5,Mean + CVaR90,caes_24h,caes,24,0.87721508720108077,88.461589208567133
+AT,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+BE,0,Expected cost,li_lfp_4h,li_lfp,4,0.29412587833746728,55.89448778183035
+BE,0,Expected cost,caes_24h,caes,24,0.23209037304945199,44.10551221816965
+BE,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+BE,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.1627981597230222,30.347887507428201
+BE,0.5,Mean + CVaR90,caes_24h,caes,24,0.37364168203919051,69.652112492571788
+BE,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+BG,0,Expected cost,li_lfp_4h,li_lfp,4,0.23037998285091091,79.760966622939392
+BG,0,Expected cost,caes_24h,caes,24,0.058458019752549502,20.239033377060611
+BG,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+BG,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.23037998285091091,66.798152562694497
+BG,0.5,Mean + CVaR90,caes_24h,caes,24,0.1145097693539633,33.201847437305489
+BG,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+CZ,0,Expected cost,li_lfp_4h,li_lfp,4,0.88617121762750606,100
+CZ,0,Expected cost,caes_24h,caes,24,-0,-0
+CZ,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+CZ,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.88179031011566755,91.180846479628244
+CZ,0.5,Mean + CVaR90,caes_24h,caes,24,0.085288132518310994,8.8191535203717706
+CZ,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+DE,0,Expected cost,li_lfp_4h,li_lfp,4,0.088654162798943198,7.0742508782560805
+DE,0,Expected cost,caes_24h,caes,24,1.1645409008852814,92.92574912174392
+DE,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+DE,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.26108075030680727,13.49772082100286
+DE,0.5,Mean + CVaR90,caes_24h,caes,24,1.6731772905067033,86.502279178997128
+DE,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+DK,0,Expected cost,li_lfp_4h,li_lfp,4,1.0789248558250879,57.812782563464097
+DK,0,Expected cost,caes_24h,caes,24,0.78731442203823965,42.18721743653591
+DK,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+DK,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,1.0901189489125838,63.361050431311803
+DK,0.5,Mean + CVaR90,caes_24h,caes,24,0.63036854536334463,36.63894956868819
+DK,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+ES,0,Expected cost,li_lfp_4h,li_lfp,4,0.33286512899538701,35.83714342080556
+ES,0,Expected cost,caes_24h,caes,24,0.59596205202970365,64.16285657919444
+ES,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+ES,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.73332177090481121,51.285683945632897
+ES,0.5,Mean + CVaR90,caes_24h,caes,24,0.69655439430767463,48.714316054367103
+ES,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+FR,0,Expected cost,li_lfp_4h,li_lfp,4,0.20194915955529211,43.923810596562781
+FR,0,Expected cost,caes_24h,caes,24,0.25782233297339902,56.076189403437212
+FR,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+FR,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.1038828609452455,22.814509746127658
+FR,0.5,Mean + CVaR90,caes_24h,caes,24,0.35145394927430201,77.185490253872331
+FR,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+GB,0,Expected cost,li_lfp_4h,li_lfp,4,0.68941442287538768,68.851636438186858
+GB,0,Expected cost,caes_24h,caes,24,0.31188991575761671,31.148363561813131
+GB,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+GB,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.9500804288910718,74.834209871899006
+GB,0.5,Mean + CVaR90,caes_24h,caes,24,0.31949992816409978,25.165790128101001
+GB,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+GR,0,Expected cost,li_lfp_4h,li_lfp,4,1.0612135122190836,73.554252954733542
+GR,0,Expected cost,caes_24h,caes,24,0.38154944109671057,26.445747045266447
+GR,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+GR,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,1.489845117290737,75.074603299736893
+GR,0.5,Mean + CVaR90,caes_24h,caes,24,0.49464104954586902,24.9253967002631
+GR,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+HR,0,Expected cost,li_lfp_4h,li_lfp,4,0.0381678054544103,13.167357216073947
+HR,0,Expected cost,caes_24h,caes,24,0.25169905870127057,86.832642783926048
+HR,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+HR,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.018891351776616199,13.730368391619329
+HR,0.5,Mean + CVaR90,caes_24h,caes,24,0.1186967393640921,86.269631608380664
+HR,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+IT,0,Expected cost,li_lfp_4h,li_lfp,4,0.74606534813737058,77.838448898299006
+IT,0,Expected cost,caes_24h,caes,24,0.2124138593711879,22.161551101701001
+IT,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+IT,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,1.3551380170175511,84.556350417650378
+IT,0.5,Mean + CVaR90,caes_24h,caes,24,0.24750685864713731,15.44364958234962
+IT,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+PT,0,Expected cost,li_lfp_4h,li_lfp,4,0.038817052441068998,5.5116944826620999
+PT,0,Expected cost,caes_24h,caes,24,0.66545007562951164,94.488305517337906
+PT,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+PT,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.00083438758088049997,0.07820593255812
+PT,0.5,Mean + CVaR90,caes_24h,caes,24,1.0660764637926403,99.92179406744188
+PT,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+RO,0,Expected cost,li_lfp_4h,li_lfp,4,0.20535925487861029,52.905048110738981
+RO,0,Expected cost,caes_24h,caes,24,0.18280645371078461,47.094951889260997
+RO,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+RO,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,0.18948146715849709,46.422791416881473
+RO,0.5,Mean + CVaR90,caes_24h,caes,24,0.21868327557946951,53.577208583118541
+RO,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0
+SI,0,Expected cost,li_lfp_4h,li_lfp,4,6.1904044893220531,81.074840893503236
+SI,0,Expected cost,caes_24h,caes,24,1.4450153537505086,18.925159106496771
+SI,0,Expected cost,h2_cavern_168h,h2_cavern,168,-0,-0
+SI,0.5,Mean + CVaR90,li_lfp_4h,li_lfp,4,4.9806055426232652,74.798654810181347
+SI,0.5,Mean + CVaR90,caes_24h,caes,24,1.6780777656029151,25.201345189818639
+SI,0.5,Mean + CVaR90,h2_cavern_168h,h2_cavern,168,-0,-0

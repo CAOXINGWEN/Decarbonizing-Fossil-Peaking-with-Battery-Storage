@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "checks": {
+    "75_operating_years": true,
+    "central_span_8_63_USD": true,
+    "496_of_2775_pairs_reach_learning_scale": true,
+    "6_of_65_adverse_decades_offset_learning": true,
+    "185_paired_observations": true,
+    "185_cycling_decreases": true,
+    "regime_parity_counts": true,
+    "regime_rounded_medians": true,
+    "540_procurement_designs": true,
+    "all_procurement_optimal": true,
+    "uncapped_procurement_power": true,
+    "2_4_6_hour_grids": true,
+    "task_balance": true,
+    "shared_recharge": true,
+    "cyclic_soc": true
+  },
+  "benchmark_usd_kw_year": 5.984523052616908,
+  "central_5_95_span_usd_kw_year": 8.632325523812852,
+  "controlled_results": {
+    "China": {
+      "n": 26,
+      "median_absolute_efc_shift_usd_kw_year": 67.2395052010985,
+      "pairs_reaching_benchmark": 26,
+      "cycling_decreases": 26
+    },
+    "Europe": {
+      "n": 132,
+      "median_absolute_efc_shift_usd_kw_year": 6.189456200666058,
+      "pairs_reaching_benchmark": 68,
+      "cycling_decreases": 132
+    },
+    "Japan": {
+      "n": 27,
+      "median_absolute_efc_shift_usd_kw_year": 5.407904629574642,
+      "pairs_reaching_benchmark": 11,
+      "cycling_decreases": 27
+    }
+  },
+  "validation_scope": "Arithmetic from included Source Data and archived feasibility residuals. No optimization reruns."
+}

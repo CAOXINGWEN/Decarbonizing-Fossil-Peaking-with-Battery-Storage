@@ -1,0 +1,31 @@
+{
+  "definition": "absolute clustered-minus-dispersed change in the duration envelope of C_sys(additional 4 h LFP)-C_sys(candidate), divided by the matched 2025-2035 relative annual fixed-cost movement versus 4 h LFP",
+  "common_ledger": {
+    "scenario": "S0",
+    "cost_year": 2035,
+    "firm_value_usd_kw_year": 117.293116180444,
+    "ldes_cost_multiplier": 1.0,
+    "optimization_and_reporting_metric": "annual_system_cost_eur",
+    "firm_term": "1000 * firm_value_eur_kw_year * residual_peak_mw",
+    "efc_role": "operational_diagnostic_only"
+  },
+  "input_rows": {
+    "europe_envelope": 7128,
+    "china_envelope": 1404,
+    "japan_envelope": 1458
+  },
+  "output_rows": {
+    "records": 4995,
+    "exposure": 1620
+  },
+  "input_sha256": {
+    "price_channel/full_summary_v0_1/price_channel_duration_envelope.csv.gz": "df9c3fe94d70936a88e0b8f68229965f154408d5b7ddc0a91180eec5e79ee979",
+    "cross_scale_cases/summary_v0_2/cross_scale_arms.csv.gz": "222113cf580848edd883fd3ae5a31f451bd3eb2988ec6afa8feaa88880c9b857",
+    "cost_and_decomposition/cost_catalogue_2025_2035_long.csv": "a9b7d6d8ad0519d4bb07b66b11e6129cd216b241c67d502b3c2e7ec48c322e09"
+  },
+  "output_sha256": {
+    "figure_work/source_data_v58/harmonized_parity/three_regime_system_year_duration_records.csv.gz": "512aa5439ab237bc1438b6a18509622442ae900905b503987171ac4d94cdd9a8",
+    "figure_work/source_data_v58/harmonized_parity/three_regime_system_duration_exposure.csv": "7d3ed3d70286c41350015192dbac0b0f639b88dd7b170b65da595e7500bd4be4",
+    "figure_work/source_data_v58/harmonized_parity/three_regime_24h_summary.csv": "ecb253f7b5688492bc8f4ae74cd2c3fa7035f9b269b69b74437d8e3c95a4690c"
+  }
+}

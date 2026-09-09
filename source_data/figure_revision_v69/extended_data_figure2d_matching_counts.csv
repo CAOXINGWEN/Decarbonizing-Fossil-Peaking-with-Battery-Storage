@@ -1,0 +1,4 @@
+product,country_total_distributed_to_pecd_regions,matched_zone_weighted,matched_zone_weighted_plus_country_residual,unweighted_zero_structural_weight
+onshore,15,16,2,0
+offshore,9,3,2,10
+solar,15,16,2,0

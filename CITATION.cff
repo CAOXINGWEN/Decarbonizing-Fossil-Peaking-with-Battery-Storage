@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this data and code repository when using these research materials."
+title: "Clustered energy droughts can erase a decade of long-duration storage learning — data and code"
+type: software
+authors:
+  - family-names: Cao
+    given-names: Xingwen
+  - family-names: Zhang
+    given-names: Haoran
+    email: h.zhang@pku.edu.cn
+version: "v75"
+date-released: 2026-09-09
+repository-code: "https://github.com/CAOXINGWEN/Decarbonizing-Fossil-Peaking-with-Battery-Storage"
+url: "https://github.com/CAOXINGWEN/Decarbonizing-Fossil-Peaking-with-Battery-Storage"

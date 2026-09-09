@@ -1,0 +1,60 @@
+{
+  "all_source_qas_pass": true,
+  "country_set": [
+    "AT",
+    "BE",
+    "BG",
+    "CZ",
+    "DE",
+    "DK",
+    "ES",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "IT",
+    "PT",
+    "RO",
+    "SI"
+  ],
+  "country_set_complete": true,
+  "maximum_diversified_hydrogen_capacity": {
+    "chronology_4h": 0.0,
+    "chronology_6h": 0.0,
+    "pooled_4h": 0.0,
+    "pooled_6h": 0.0
+  },
+  "output_sha256": {
+    "chronology_effect_country_pair.csv": "f2ef92dced3a873da9eb2855bdfd76792180138660f1afc446681d2eb084a737",
+    "chronology_ensemble_country_pair.csv": "28674809e5915ad7fc2cfa34b26fe16c7f4e58e4b076d5742bcae9cc25df0b5d",
+    "diversification_country_pair.csv": "978fc6b8fa7899f278eae7db2a1bb7b9e01fe961c9d13b5c4dcfe7562a771e32",
+    "headline_metrics.json": "51018e52e75a92f9768d713e0591bc7de27abb9e2a031cd27b311a7ed79c1b70",
+    "pooled_country_pair.csv": "241f58c930c0a5a02a350c3c1bca596aba37c1a160678bfacdc7cf72f9acdfb0",
+    "risk_shift_country_pair.csv": "f35dadfcd48429a853f58b528a19e58484e81a65367f13df336ee360864cb376",
+    "technology_capacity_pair.csv": "3f155afc403a30ce453dcdeca9ee9a794f349b46476abcb27d7c79e25ecccfe3"
+  },
+  "paired_chronology_contrast_count": 30,
+  "paired_ensemble_design_count": 120,
+  "paired_pooled_design_count": 30,
+  "planning_step_values": {
+    "chronology_4h": [
+      4.0
+    ],
+    "chronology_6h": [
+      6.0
+    ],
+    "pooled_4h": [
+      4.0
+    ],
+    "pooled_6h": [
+      6.0
+    ]
+  },
+  "source_qa_sha256": {
+    "chronology_4h": "eab8ea8abef9ede3d31ca8f4215a7e79cf3c448c50249ea7bec63506345f3c79",
+    "chronology_6h": "2fd16cc154d55a658823533a910abb4ed28f4ff42c2ae9c7a98536adb80cbb96",
+    "pooled_4h": "914d97a4f4de229b8bdf07e2dd9203fcf9ae81bb899b2d95ca88d547ed8e3824",
+    "pooled_6h": "85a66d40fd1ba9839be94bd4d1edfdfc6852e92b9cb1e19da738ade29a8451cc"
+  },
+  "status": "pass"
+}

@@ -1,0 +1,47 @@
+{
+  "all_observations_fit": {
+    "weighted_mae_pu": 0.07610707215022249,
+    "weighted_pearson_r": 0.8560891152766329,
+    "weighted_r2": 0.7328645497706461,
+    "weighted_rmse_pu": 0.09944127454695385
+  },
+  "annual_normalization": "country-year mean load",
+  "calendar_features": "hour-of-week, month, four annual harmonics, workday and year-end holiday",
+  "holdout": {
+    "weighted_mae_pu": 0.07259117329080622,
+    "weighted_pearson_r": 0.8572900046194807,
+    "weighted_r2": 0.734241457536525,
+    "weighted_rmse_pu": 0.0960129220633248
+  },
+  "holdout_hours": 271484,
+  "holdout_sample_hours": 120000,
+  "observed_countries": [
+    "AT",
+    "BE",
+    "BG",
+    "CH",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FR",
+    "GR",
+    "HR",
+    "IT",
+    "PT",
+    "RO",
+    "SI",
+    "UK"
+  ],
+  "observed_country_years": 155,
+  "observed_hours": 1357322,
+  "selected_ridge_alpha": 100.0,
+  "status": "pass",
+  "temperature_driver": "PECD v4.2 population-weighted temperature, trailing 24-h mean",
+  "training_source": "Energy-Charts observed public-grid hourly load, 2015-2024",
+  "validation_years": [
+    2023,
+    2024
+  ]
+}

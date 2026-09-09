@@ -1,0 +1,166 @@
+{
+  "all_chronology_ensembles": {
+    "active_set_agreement_4h_2h": 111,
+    "active_set_agreement_6h_2h": 85,
+    "active_set_agreement_all_three": 83,
+    "design_count": 120,
+    "dominant_agreement_4h_2h": 102,
+    "dominant_agreement_6h_2h": 68,
+    "dominant_agreement_all_three": 67,
+    "median_absolute_2h_minus_4h_power_pp": 45.45183631168395,
+    "median_absolute_4h_minus_6h_power_pp": 24.98802495767719,
+    "median_within_design_power_range_2h_4h_6h_pp": 76.29928294314169,
+    "stepwise_power_contraction_designs": 32
+  },
+  "by_ensemble_and_objective": {
+    "clustered_expected": {
+      "active_set_agreement_4h_2h": 13,
+      "active_set_agreement_6h_2h": 10,
+      "active_set_agreement_all_three": 9,
+      "design_count": 15,
+      "dominant_agreement_4h_2h": 13,
+      "dominant_agreement_6h_2h": 10,
+      "dominant_agreement_all_three": 10,
+      "median_absolute_2h_minus_4h_power_pp": 33.464347390400405,
+      "median_absolute_4h_minus_6h_power_pp": 17.70705671311176,
+      "median_within_design_power_range_2h_4h_6h_pp": 50.89747074774955,
+      "stepwise_power_contraction_designs": 3
+    },
+    "clustered_mean_cvar90": {
+      "active_set_agreement_4h_2h": 14,
+      "active_set_agreement_6h_2h": 10,
+      "active_set_agreement_all_three": 10,
+      "design_count": 15,
+      "dominant_agreement_4h_2h": 13,
+      "dominant_agreement_6h_2h": 10,
+      "dominant_agreement_all_three": 10,
+      "median_absolute_2h_minus_4h_power_pp": 42.940845492914804,
+      "median_absolute_4h_minus_6h_power_pp": 21.936852550006677,
+      "median_within_design_power_range_2h_4h_6h_pp": 63.88943498065659,
+      "stepwise_power_contraction_designs": 4
+    },
+    "combined_expected": {
+      "active_set_agreement_4h_2h": 15,
+      "active_set_agreement_6h_2h": 13,
+      "active_set_agreement_all_three": 13,
+      "design_count": 15,
+      "dominant_agreement_4h_2h": 14,
+      "dominant_agreement_6h_2h": 9,
+      "dominant_agreement_all_three": 9,
+      "median_absolute_2h_minus_4h_power_pp": 54.219754337506615,
+      "median_absolute_4h_minus_6h_power_pp": 24.90327828908795,
+      "median_within_design_power_range_2h_4h_6h_pp": 71.75331475828992,
+      "stepwise_power_contraction_designs": 2
+    },
+    "combined_mean_cvar90": {
+      "active_set_agreement_4h_2h": 15,
+      "active_set_agreement_6h_2h": 10,
+      "active_set_agreement_all_three": 10,
+      "design_count": 15,
+      "dominant_agreement_4h_2h": 12,
+      "dominant_agreement_6h_2h": 7,
+      "dominant_agreement_all_three": 7,
+      "median_absolute_2h_minus_4h_power_pp": 56.24949567571693,
+      "median_absolute_4h_minus_6h_power_pp": 31.540376973014773,
+      "median_within_design_power_range_2h_4h_6h_pp": 122.08387294888533,
+      "stepwise_power_contraction_designs": 5
+    },
+    "dispersed_expected": {
+      "active_set_agreement_4h_2h": 15,
+      "active_set_agreement_6h_2h": 13,
+      "active_set_agreement_all_three": 13,
+      "design_count": 15,
+      "dominant_agreement_4h_2h": 13,
+      "dominant_agreement_6h_2h": 7,
+      "dominant_agreement_all_three": 7,
+      "median_absolute_2h_minus_4h_power_pp": 64.31876842292351,
+      "median_absolute_4h_minus_6h_power_pp": 38.0412430413267,
+      "median_within_design_power_range_2h_4h_6h_pp": 107.67739421501076,
+      "stepwise_power_contraction_designs": 3
+    },
+    "dispersed_mean_cvar90": {
+      "active_set_agreement_4h_2h": 14,
+      "active_set_agreement_6h_2h": 9,
+      "active_set_agreement_all_three": 9,
+      "design_count": 15,
+      "dominant_agreement_4h_2h": 11,
+      "dominant_agreement_6h_2h": 5,
+      "dominant_agreement_all_three": 4,
+      "median_absolute_2h_minus_4h_power_pp": 75.24328464122436,
+      "median_absolute_4h_minus_6h_power_pp": 50.59254913158367,
+      "median_within_design_power_range_2h_4h_6h_pp": 143.71429453897215,
+      "stepwise_power_contraction_designs": 5
+    },
+    "observed_expected": {
+      "active_set_agreement_4h_2h": 14,
+      "active_set_agreement_6h_2h": 11,
+      "active_set_agreement_all_three": 11,
+      "design_count": 15,
+      "dominant_agreement_4h_2h": 12,
+      "dominant_agreement_6h_2h": 9,
+      "dominant_agreement_all_three": 9,
+      "median_absolute_2h_minus_4h_power_pp": 19.403859508186557,
+      "median_absolute_4h_minus_6h_power_pp": 10.412813556772,
+      "median_within_design_power_range_2h_4h_6h_pp": 43.661057346259526,
+      "stepwise_power_contraction_designs": 5
+    },
+    "observed_mean_cvar90": {
+      "active_set_agreement_4h_2h": 11,
+      "active_set_agreement_6h_2h": 9,
+      "active_set_agreement_all_three": 8,
+      "design_count": 15,
+      "dominant_agreement_4h_2h": 14,
+      "dominant_agreement_6h_2h": 11,
+      "dominant_agreement_all_three": 11,
+      "median_absolute_2h_minus_4h_power_pp": 28.508381252945156,
+      "median_absolute_4h_minus_6h_power_pp": 20.593434061818087,
+      "median_within_design_power_range_2h_4h_6h_pp": 43.920899419663726,
+      "stepwise_power_contraction_designs": 5
+    }
+  },
+  "country_count": 15,
+  "design": "paired deterministic 2 h, 4 h and 6 h re-optimization",
+  "event_order": {
+    "expected": {
+      "direction_agreement_4h_2h": 13,
+      "direction_agreement_6h_2h": 9,
+      "direction_agreement_all_three": 8,
+      "material_power_change_2h": 15,
+      "material_power_change_4h": 13,
+      "material_power_change_6h": 11,
+      "material_power_change_range": "11--15"
+    },
+    "mean_cvar90": {
+      "direction_agreement_4h_2h": 12,
+      "direction_agreement_6h_2h": 7,
+      "direction_agreement_all_three": 7,
+      "material_power_change_2h": 14,
+      "material_power_change_4h": 15,
+      "material_power_change_6h": 12,
+      "material_power_change_range": "12--15"
+    }
+  },
+  "inferential_tests": "none; countries are fixed model cases",
+  "pooled_all_designs": {
+    "active_set_agreement_4h_2h": 30,
+    "active_set_agreement_6h_2h": 23,
+    "active_set_agreement_all_three": 23,
+    "design_count": 30,
+    "dominant_agreement_4h_2h": 26,
+    "dominant_agreement_6h_2h": 16,
+    "dominant_agreement_all_three": 16,
+    "median_absolute_2h_minus_4h_power_pp": 55.23462500661174,
+    "median_absolute_4h_minus_6h_power_pp": 26.964883274151514,
+    "median_within_design_power_range_2h_4h_6h_pp": 97.56479018934932,
+    "stepwise_power_contraction_designs": 7
+  },
+  "risk_pricing": {
+    "direction_agreement_4h_2h": 13,
+    "direction_agreement_6h_2h": 11,
+    "direction_agreement_all_three": 10,
+    "material_power_change_2h": 15,
+    "material_power_change_4h": 14,
+    "material_power_change_6h": 13,
+    "material_power_change_range": "13--15"
+  }
+}

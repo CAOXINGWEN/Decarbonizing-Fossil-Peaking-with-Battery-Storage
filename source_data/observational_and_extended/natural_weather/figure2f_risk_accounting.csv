@@ -1,0 +1,6 @@
+metric,value
+full_span,11.945389110977985
+q95_q05_span,6.1327428743964854
+cost_improvement,5.9845230526169217
+all_pair_fraction,0.058018018018018001
+adverse_decade_fraction,0.046153846153846101

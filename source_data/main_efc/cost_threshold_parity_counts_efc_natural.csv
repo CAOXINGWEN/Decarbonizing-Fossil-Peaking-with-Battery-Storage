@@ -1,0 +1,5 @@
+discount_rate,cost_threshold_usd_kw_year,natural_pair_hits,natural_pairs,adverse_decade_hits,beneficial_decade_hits,matched_decades,efc_europe_hits,objective_europe_hits,efc_china_hits,objective_china_hits,efc_japan_hits,objective_japan_hits
+0.02,2.6991350391975582,1405,2775,19,17,65,102,92,26,26,24,24
+0.035999999999999997,5.9845230526169102,496,2775,6,6,65,68,52,26,26,11,7
+0.059999999999999998,11.7682722315622,16,2775,1,0,65,8,4,26,26,6,6
+0.080000000000000002,16.997877134310588,1,2775,0,0,65,2,3,26,26,4,2

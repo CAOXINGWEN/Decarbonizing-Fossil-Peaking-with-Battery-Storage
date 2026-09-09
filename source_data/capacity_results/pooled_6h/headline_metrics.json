@@ -1,0 +1,19 @@
+{
+  "country_count": 15,
+  "natural_country_year_count": 132,
+  "chronology_scenario_count": 264,
+  "expected_cost_mixed_portfolio_countries": 12,
+  "risk_aware_mixed_portfolio_countries": 10,
+  "technology_set_change_countries": 4,
+  "dominant_technology_change_countries": 1,
+  "material_power_change_countries": 13,
+  "expected_cost_diversification_improvement_countries": 12,
+  "risk_aware_cvar90_diversification_improvement_countries": 7,
+  "median_expected_cost_diversification_change_usd_per_normalized_mw": -162.56025557374755,
+  "median_risk_aware_cvar90_diversification_change_usd_per_normalized_mw": 0.0,
+  "median_absolute_procurement_power_shift_percentage_points": 16.268376385074696,
+  "maximum_objective_identity_error_usd_per_normalized_mw": 1.8877326510846612e-08,
+  "maximum_task_balance_residual": 1.4876988529977098e-14,
+  "maximum_shared_recharge_violation": 1.1102230246251565e-16,
+  "maximum_state_balance_residual_mwh": 1.8596235662471372e-13
+}

@@ -1,0 +1,36 @@
+{
+  "status": "pass",
+  "source": "PECD v4.2 ERA5 historical, 1950-2025 calendar years",
+  "complete_july_june_operating_years": 75,
+  "all_unordered_weather_pairs": 2775,
+  "matched_ten_year_transitions": 65,
+  "cost_improvement_2025_2035_usd_kw_year": 5.984523052616922,
+  "natural_full_span_usd_kw_year": 17.018287479289384,
+  "natural_q95_q05_span_usd_kw_year": 8.63232552381285,
+  "minimum_value_window": "2001/02",
+  "maximum_value_window": "1988/89",
+  "all_pairs_reaching_cost_scale": 496,
+  "all_pair_fraction_reaching_cost_scale": 0.17873873873873874,
+  "matched_decades_erasing_learning": 6,
+  "matched_decade_fraction_erasing_learning": 0.09230769230769231,
+  "matched_decades_exceeding_learning_beneficially": 6,
+  "worst_matched_decade": {
+    "start": "1988/89",
+    "end": "1998/99",
+    "weather_change_usd_kw_year": -12.734405528050447,
+    "net_change_after_learning_usd_kw_year": -6.749882475433525
+  },
+  "best_matched_decade": {
+    "start": "1978/79",
+    "end": "1988/89",
+    "weather_change_usd_kw_year": 11.534139962846574,
+    "net_change_after_learning_usd_kw_year": 17.518663015463495
+  },
+  "economic_crossovers_by_cost_year": {
+    "2025": 1,
+    "2030": 1,
+    "2035": 16
+  },
+  "value_ledger": "EFC service valuation on unchanged system-cost-optimal dispatch",
+  "crossing_interpretation": "service valuation crossover, not optimal technology switch"
+}
