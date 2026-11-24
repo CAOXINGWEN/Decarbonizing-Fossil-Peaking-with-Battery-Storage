@@ -1,0 +1,661 @@
+uid,regime,kind,variant,tech,duration_h,B,caes_full,vre_share,q,provenance
+0471a40b04a62290,Europe,vre,observed,,,-34.28669582706425,0.0,0.0665397709677187,50,reused_q50_national_vre
+0471a40b04a62290,Europe,vre,50%,,,-20.96958776800966,7.0,0.5,50,reused_q50_national_vre
+0471a40b04a62290,Europe,vre,75%,,,-9.067019869375144,19.0,0.7499999999999999,50,reused_q50_national_vre
+0471a40b04a62290,Europe,vre,100%,,,-7.182293674879475,25.0,1.0,50,reused_q50_national_vre
+0471a40b04a62290,Europe,vre,2030 plan,,,-34.045533757167505,0.0,0.30287121714907,50,reused_q50_national_vre
+05549f2901a65b5a,Europe,vre,observed,,,-34.28669582706425,0.0,0.1326703075958346,50,reused_q50_national_vre
+05549f2901a65b5a,Europe,vre,50%,,,-12.28633579894813,18.0,0.5,50,reused_q50_national_vre
+05549f2901a65b5a,Europe,vre,75%,,,-5.657220018540102,24.0,0.75,50,reused_q50_national_vre
+05549f2901a65b5a,Europe,vre,100%,,,-1.276852672221139,25.0,1.0,50,reused_q50_national_vre
+05549f2901a65b5a,Europe,vre,2030 plan,,,-10.285229782599345,19.0,0.5567397480919091,50,reused_q50_national_vre
+0612b725d061db48,Europe,vre,observed,,,-36.96480998658808,0.0,0.1908966102221194,50,reused_q50_national_vre
+0612b725d061db48,Europe,vre,50%,,,-25.86172005618937,4.0,0.5,50,reused_q50_national_vre
+0612b725d061db48,Europe,vre,75%,,,-3.1234122132555058,24.0,0.75,50,reused_q50_national_vre
+0612b725d061db48,Europe,vre,100%,,,4.191834742745414,37.0,1.0,50,reused_q50_national_vre
+0612b725d061db48,Europe,vre,2030 plan,,,4.468711253794027,38.0,1.1255305038218506,50,reused_q50_national_vre
+06d122cacb5a726d,Europe,vre,observed,,,-34.28669582706425,0.0,0.233845006619625,50,reused_q50_national_vre
+06d122cacb5a726d,Europe,vre,50%,,,-21.0756691255192,8.0,0.5,50,reused_q50_national_vre
+06d122cacb5a726d,Europe,vre,75%,,,-5.286175212897433,28.0,0.75,50,reused_q50_national_vre
+06d122cacb5a726d,Europe,vre,100%,,,-0.6961247072449623,30.0,1.0,50,reused_q50_national_vre
+06d122cacb5a726d,Europe,vre,2030 plan,,,-3.883761219329244,28.0,0.8174939004109377,50,reused_q50_national_vre
+090b981b04cd6800,Europe,vre,observed,,,-34.320117200448294,0.0,0.2582388298355869,50,reused_q50_national_vre
+090b981b04cd6800,Europe,vre,50%,,,-15.383824192180327,10.0,0.5,50,reused_q50_national_vre
+090b981b04cd6800,Europe,vre,75%,,,-2.0325499876962567,29.0,0.75,50,reused_q50_national_vre
+090b981b04cd6800,Europe,vre,100%,,,-0.950641627117875,32.0,1.0,50,reused_q50_national_vre
+090b981b04cd6800,Europe,vre,2030 plan,,,-1.4768519989593187,31.0,0.8406497406364231,50,reused_q50_national_vre
+0b19e99c1e6e2080,Europe,vre,observed,,,-34.28669582706061,0.0,0.0756352497793213,50,reused_q50_national_vre
+0b19e99c1e6e2080,Europe,vre,50%,,,-15.24196249981469,11.0,0.5,50,reused_q50_national_vre
+0b19e99c1e6e2080,Europe,vre,75%,,,-9.408468815679951,18.0,0.75,50,reused_q50_national_vre
+0b19e99c1e6e2080,Europe,vre,100%,,,-6.639606346121582,22.0,1.0,50,reused_q50_national_vre
+0b19e99c1e6e2080,Europe,vre,2030 plan,,,-34.289659865818976,0.0,0.2135128116244407,50,reused_q50_national_vre
+0b1a45d6f21696d5,Europe,vre,observed,,,-34.28669582706061,0.0,0.0428732561647807,50,reused_q50_national_vre
+0b1a45d6f21696d5,Europe,vre,50%,,,-24.774672868312337,14.0,0.5,50,reused_q50_national_vre
+0b1a45d6f21696d5,Europe,vre,75%,,,-22.88365247689944,16.0,0.75,50,reused_q50_national_vre
+0b1a45d6f21696d5,Europe,vre,100%,,,-22.05086017496069,18.0,1.0,50,reused_q50_national_vre
+0b1a45d6f21696d5,Europe,vre,2030 plan,,,-25.349384592613205,12.0,0.4112759178073389,50,reused_q50_national_vre
+0b41f00c116a3732,Europe,vre,observed,,,-34.28669582706425,0.0,0.1559545972816465,50,reused_q50_national_vre
+0b41f00c116a3732,Europe,vre,50%,,,37.07522939737828,11.0,0.5,50,reused_q50_national_vre
+0b41f00c116a3732,Europe,vre,75%,,,41.99149437993401,21.0,0.7500000000000001,50,reused_q50_national_vre
+0b41f00c116a3732,Europe,vre,100%,,,42.25512016149514,23.0,1.0,50,reused_q50_national_vre
+0b41f00c116a3732,Europe,vre,2030 plan,,,32.98293113721411,7.0,0.402835492392523,50,reused_q50_national_vre
+11c35977809b298e,Europe,vre,observed,,,-34.28669582706425,0.0,0.1486590403555827,50,reused_q50_national_vre
+11c35977809b298e,Europe,vre,50%,,,39.81441326557069,7.0,0.5,50,reused_q50_national_vre
+11c35977809b298e,Europe,vre,75%,,,44.00636718622263,11.0,0.7500000000000001,50,reused_q50_national_vre
+11c35977809b298e,Europe,vre,100%,,,45.58490405949669,11.0,1.0,50,reused_q50_national_vre
+11c35977809b298e,Europe,vre,2030 plan,,,37.561970729075256,6.0,0.429378678152061,50,reused_q50_national_vre
+133c7ff6539277d7,Europe,vre,observed,,,-22.86710490323821,7.0,0.4440144286693299,50,reused_q50_national_vre
+133c7ff6539277d7,Europe,vre,50%,,,-16.19945277243096,11.0,0.5,50,reused_q50_national_vre
+133c7ff6539277d7,Europe,vre,75%,,,-5.725753568196524,26.0,0.75,50,reused_q50_national_vre
+133c7ff6539277d7,Europe,vre,100%,,,-3.632333622157603,31.0,1.0,50,reused_q50_national_vre
+133c7ff6539277d7,Europe,vre,2030 plan,,,-2.8941201994202856,31.0,1.0554408528634884,50,reused_q50_national_vre
+187c60e41551aedb,Europe,vre,observed,,,-34.28669582706061,0.0,0.0224241124297537,50,reused_q50_national_vre
+187c60e41551aedb,Europe,vre,50%,,,-19.442549590748968,14.0,0.5,50,reused_q50_national_vre
+187c60e41551aedb,Europe,vre,75%,,,-16.680776876106393,16.0,0.7499999999999999,50,reused_q50_national_vre
+187c60e41551aedb,Europe,vre,100%,,,-15.7204100380186,19.0,1.0,50,reused_q50_national_vre
+187c60e41551aedb,Europe,vre,2030 plan,,,-20.330130479647774,12.0,0.4337863678168336,50,reused_q50_national_vre
+1aaa4820775e48f2,Europe,vre,observed,,,-33.97015185906639,0.0,0.259227906423393,50,reused_q50_national_vre
+1aaa4820775e48f2,Europe,vre,50%,,,-18.43382848113106,11.0,0.5,50,reused_q50_national_vre
+1aaa4820775e48f2,Europe,vre,75%,,,-9.083389135972538,23.0,0.75,50,reused_q50_national_vre
+1aaa4820775e48f2,Europe,vre,100%,,,-5.885415484663099,25.0,1.0,50,reused_q50_national_vre
+1aaa4820775e48f2,Europe,vre,2030 plan,,,-15.582859412330436,14.0,0.55432909717624,50,reused_q50_national_vre
+1b526edc989900c2,Europe,vre,observed,,,-34.28669582706425,0.0,0.2393577250093307,50,reused_q50_national_vre
+1b526edc989900c2,Europe,vre,50%,,,-27.967494533990248,3.0,0.5,50,reused_q50_national_vre
+1b526edc989900c2,Europe,vre,75%,,,-4.789282835525228,25.0,0.75,50,reused_q50_national_vre
+1b526edc989900c2,Europe,vre,100%,,,2.42386792268735,32.0,1.0,50,reused_q50_national_vre
+1b526edc989900c2,Europe,vre,2030 plan,,,-7.0623136613903625,21.0,0.7061119479912819,50,reused_q50_national_vre
+1bb421c29f785d49,Europe,vre,observed,,,-34.28669582706425,0.0,0.118738152663273,50,reused_q50_national_vre
+1bb421c29f785d49,Europe,vre,50%,,,43.20906707894028,11.0,0.5,50,reused_q50_national_vre
+1bb421c29f785d49,Europe,vre,75%,,,46.16838107873264,13.0,0.75,50,reused_q50_national_vre
+1bb421c29f785d49,Europe,vre,100%,,,48.06185229171024,14.0,1.0,50,reused_q50_national_vre
+1bb421c29f785d49,Europe,vre,2030 plan,,,41.42616634305887,8.0,0.4356916609881949,50,reused_q50_national_vre
+1bd23ac39a23976f,Europe,vre,observed,,,-34.28669582706425,0.0,0.0445351007485807,50,reused_q50_national_vre
+1bd23ac39a23976f,Europe,vre,50%,,,-18.92767369866488,9.0,0.5,50,reused_q50_national_vre
+1bd23ac39a23976f,Europe,vre,75%,,,-15.147361239112795,10.0,0.75,50,reused_q50_national_vre
+1bd23ac39a23976f,Europe,vre,100%,,,-11.84155238006133,13.0,1.0,50,reused_q50_national_vre
+1bd23ac39a23976f,Europe,vre,2030 plan,,,-33.35471438293098,0.0,0.2190370376351277,50,reused_q50_national_vre
+1c12c9c55206eaab,Europe,vre,observed,,,-34.28669582706061,0.0,0.0572604031454637,50,reused_q50_national_vre
+1c12c9c55206eaab,Europe,vre,50%,,,-14.587832575001812,11.0,0.5,50,reused_q50_national_vre
+1c12c9c55206eaab,Europe,vre,75%,,,-11.426259353364005,17.0,0.75,50,reused_q50_national_vre
+1c12c9c55206eaab,Europe,vre,100%,,,-9.2665177718809,18.0,1.0,50,reused_q50_national_vre
+1c12c9c55206eaab,Europe,vre,2030 plan,,,-33.19286973073031,0.0,0.216043821427952,50,reused_q50_national_vre
+1c61dfefbc5271ee,Europe,vre,observed,,,-34.28669582706425,0.0,0.1616168789572857,50,reused_q50_national_vre
+1c61dfefbc5271ee,Europe,vre,50%,,,-20.713652570211707,9.0,0.5,50,reused_q50_national_vre
+1c61dfefbc5271ee,Europe,vre,75%,,,-7.974094577566575,19.0,0.75,50,reused_q50_national_vre
+1c61dfefbc5271ee,Europe,vre,100%,,,-3.954691139588249,24.0,1.0,50,reused_q50_national_vre
+1c61dfefbc5271ee,Europe,vre,2030 plan,,,-6.957876251053676,19.0,0.787587933759732,50,reused_q50_national_vre
+1d6dcc387066ec6a,Europe,vre,observed,,,-34.28669582706061,0.0,0.1238513514749951,50,reused_q50_national_vre
+1d6dcc387066ec6a,Europe,vre,50%,,,-13.854456907130952,12.0,0.5,50,reused_q50_national_vre
+1d6dcc387066ec6a,Europe,vre,75%,,,-2.964398972981144,24.0,0.75,50,reused_q50_national_vre
+1d6dcc387066ec6a,Europe,vre,100%,,,1.0141439521830762,30.0,1.0,50,reused_q50_national_vre
+1d6dcc387066ec6a,Europe,vre,2030 plan,,,-7.949364561369293,16.0,0.5871770136192912,50,reused_q50_national_vre
+1fd116cc669d8947,Europe,vre,observed,,,-34.28669582706425,0.0,0.1047768717988429,50,reused_q50_national_vre
+1fd116cc669d8947,Europe,vre,50%,,,-19.90764630160629,8.0,0.5,50,reused_q50_national_vre
+1fd116cc669d8947,Europe,vre,75%,,,-7.395865231104835,19.0,0.75,50,reused_q50_national_vre
+1fd116cc669d8947,Europe,vre,100%,,,-3.217821834699862,25.0,1.0,50,reused_q50_national_vre
+1fd116cc669d8947,Europe,vre,2030 plan,,,-34.40812018297584,0.0,0.3080356230810519,50,reused_q50_national_vre
+276c5dd45a8856aa,Europe,vre,observed,,,-34.28669582706425,0.0,0.1427196423862084,50,reused_q50_national_vre
+276c5dd45a8856aa,Europe,vre,50%,,,-16.720613830391812,7.0,0.5,50,reused_q50_national_vre
+276c5dd45a8856aa,Europe,vre,75%,,,-4.904438233601468,19.0,0.7499999999999999,50,reused_q50_national_vre
+276c5dd45a8856aa,Europe,vre,100%,,,-2.02558276912896,26.0,1.0,50,reused_q50_national_vre
+276c5dd45a8856aa,Europe,vre,2030 plan,,,-15.918996945689289,8.0,0.5077969315578348,50,reused_q50_national_vre
+284fc1587d7d3296,Europe,vre,observed,,,-34.2777282672123,0.0,0.1774166636571744,50,reused_q50_national_vre
+284fc1587d7d3296,Europe,vre,50%,,,-27.123695978707477,1.0,0.5,50,reused_q50_national_vre
+284fc1587d7d3296,Europe,vre,75%,,,-2.421932494462453,30.0,0.75,50,reused_q50_national_vre
+284fc1587d7d3296,Europe,vre,100%,,,3.3019448523500614,34.0,1.0,50,reused_q50_national_vre
+284fc1587d7d3296,Europe,vre,2030 plan,,,4.4614752559919,34.0,1.121447693454806,50,reused_q50_national_vre
+298e8da6f3b8ffc7,Europe,vre,observed,,,-34.28669582706061,0.0,0.1399996233389072,50,reused_q50_national_vre
+298e8da6f3b8ffc7,Europe,vre,50%,,,-23.39080401980027,6.0,0.5,50,reused_q50_national_vre
+298e8da6f3b8ffc7,Europe,vre,75%,,,-11.861594843801868,14.0,0.75,50,reused_q50_national_vre
+298e8da6f3b8ffc7,Europe,vre,100%,,,-9.444977690756788,20.0,1.0,50,reused_q50_national_vre
+298e8da6f3b8ffc7,Europe,vre,2030 plan,,,-11.387136037905291,17.0,0.7824089745819383,50,reused_q50_national_vre
+2d9eb5bf602eafd1,Europe,vre,observed,,,-34.30679558139764,0.0,0.1267146027771128,50,reused_q50_national_vre
+2d9eb5bf602eafd1,Europe,vre,50%,,,-21.52282964231381,9.0,0.5,50,reused_q50_national_vre
+2d9eb5bf602eafd1,Europe,vre,75%,,,-18.62295428165544,12.0,0.75,50,reused_q50_national_vre
+2d9eb5bf602eafd1,Europe,vre,100%,,,-17.075412621900796,16.0,1.0,50,reused_q50_national_vre
+2d9eb5bf602eafd1,Europe,vre,2030 plan,,,-22.45905649429096,8.0,0.4460293665061144,50,reused_q50_national_vre
+3284dc2f333eb705,Europe,vre,observed,,,-34.28669582706425,0.0,0.0911607494529364,50,reused_q50_national_vre
+3284dc2f333eb705,Europe,vre,50%,,,-23.57449365168941,7.0,0.5,50,reused_q50_national_vre
+3284dc2f333eb705,Europe,vre,75%,,,-11.276034472335596,15.0,0.7499999999999999,50,reused_q50_national_vre
+3284dc2f333eb705,Europe,vre,100%,,,-6.673318781860871,22.0,1.0,50,reused_q50_national_vre
+3284dc2f333eb705,Europe,vre,2030 plan,,,-27.111731486140343,3.0,0.4496956293501519,50,reused_q50_national_vre
+330639a44a6ff11c,Europe,vre,observed,,,-34.28669582706425,0.0,0.0443004854091221,50,reused_q50_national_vre
+330639a44a6ff11c,Europe,vre,50%,,,-15.357809544468182,11.0,0.5,50,reused_q50_national_vre
+330639a44a6ff11c,Europe,vre,75%,,,-12.252105537070747,15.0,0.75,50,reused_q50_national_vre
+330639a44a6ff11c,Europe,vre,100%,,,-9.680804908468415,18.0,1.0,50,reused_q50_national_vre
+330639a44a6ff11c,Europe,vre,2030 plan,,,-33.18684765829312,0.0,0.2131151107704432,50,reused_q50_national_vre
+332bd3bcdb4155de,Europe,vre,observed,,,-34.28669582706425,0.0,0.0952358853487609,50,reused_q50_national_vre
+332bd3bcdb4155de,Europe,vre,50%,,,-20.861175668303986,8.0,0.5,50,reused_q50_national_vre
+332bd3bcdb4155de,Europe,vre,75%,,,-7.0837225362902245,20.0,0.75,50,reused_q50_national_vre
+332bd3bcdb4155de,Europe,vre,100%,,,-3.6517082777590986,28.0,1.0,50,reused_q50_national_vre
+332bd3bcdb4155de,Europe,vre,2030 plan,,,-26.820535821074373,4.0,0.4179501438323019,50,reused_q50_national_vre
+34e105980366e811,Europe,vre,observed,,,-34.28669582706425,0.0,0.1457576333317612,50,reused_q50_national_vre
+34e105980366e811,Europe,vre,50%,,,-17.378696669002238,9.0,0.5,50,reused_q50_national_vre
+34e105980366e811,Europe,vre,75%,,,-2.02862075660596,22.0,0.75,50,reused_q50_national_vre
+34e105980366e811,Europe,vre,100%,,,3.669180379161844,29.0,1.0,50,reused_q50_national_vre
+34e105980366e811,Europe,vre,2030 plan,,,-0.4314295934382244,23.0,0.798040789132744,50,reused_q50_national_vre
+364e6021a1f487d7,Europe,vre,observed,,,-34.28669582706425,0.0,0.267231267728075,50,reused_q50_national_vre
+364e6021a1f487d7,Europe,vre,50%,,,-29.332564353089765,2.0,0.5,50,reused_q50_national_vre
+364e6021a1f487d7,Europe,vre,75%,,,-9.17746104044636,20.0,0.7499999999999999,50,reused_q50_national_vre
+364e6021a1f487d7,Europe,vre,100%,,,0.9584047146836384,30.0,1.0,50,reused_q50_national_vre
+364e6021a1f487d7,Europe,vre,2030 plan,,,-9.108055736187453,20.0,0.7515826391451748,50,reused_q50_national_vre
+3675d805caf692b9,Europe,vre,observed,,,-13.844148776421209,16.0,0.6518859574639033,50,reused_q50_national_vre
+3675d805caf692b9,Europe,vre,50%,,,-24.179794494433736,3.0,0.5,50,reused_q50_national_vre
+3675d805caf692b9,Europe,vre,75%,,,-11.763161320544896,20.0,0.75,50,reused_q50_national_vre
+3675d805caf692b9,Europe,vre,100%,,,-7.463339188223472,25.0,1.0,50,reused_q50_national_vre
+3675d805caf692b9,Europe,vre,2030 plan,,,-6.727776126783283,25.0,1.0699379012638632,50,reused_q50_national_vre
+37292225cede4502,Europe,vre,observed,,,-34.28669582706425,0.0,0.1278356050023623,50,reused_q50_national_vre
+37292225cede4502,Europe,vre,50%,,,-14.285528882128348,12.0,0.5,50,reused_q50_national_vre
+37292225cede4502,Europe,vre,75%,,,-1.008263903149782,25.0,0.75,50,reused_q50_national_vre
+37292225cede4502,Europe,vre,100%,,,2.589567916957094,31.0,1.0,50,reused_q50_national_vre
+37292225cede4502,Europe,vre,2030 plan,,,-12.503819551298877,14.0,0.5307943203949618,50,reused_q50_national_vre
+3793ea353a4977af,Europe,vre,observed,,,-34.28669582706425,0.0,0.0467118027970985,50,reused_q50_national_vre
+3793ea353a4977af,Europe,vre,50%,,,-18.97404759287383,12.0,0.5,50,reused_q50_national_vre
+3793ea353a4977af,Europe,vre,75%,,,-14.67314639354663,15.0,0.75,50,reused_q50_national_vre
+3793ea353a4977af,Europe,vre,100%,,,-11.961398656178062,16.0,1.0,50,reused_q50_national_vre
+3793ea353a4977af,Europe,vre,2030 plan,,,-33.76747887242527,0.0,0.2133643443396146,50,reused_q50_national_vre
+3e5a0c224078ad3b,Europe,vre,observed,,,-34.28669582706425,0.0,0.2382852998722013,50,reused_q50_national_vre
+3e5a0c224078ad3b,Europe,vre,50%,,,-25.450286405859515,3.0,0.5,50,reused_q50_national_vre
+3e5a0c224078ad3b,Europe,vre,75%,,,-10.58582139596183,17.0,0.75,50,reused_q50_national_vre
+3e5a0c224078ad3b,Europe,vre,100%,,,-2.37975492325495,28.0,1.0,50,reused_q50_national_vre
+3e5a0c224078ad3b,Europe,vre,2030 plan,,,-14.201880643475306,16.0,0.7077254618523784,50,reused_q50_national_vre
+40182591e5689bd1,Europe,vre,observed,,,-34.28669582706425,0.0,0.124272537059762,50,reused_q50_national_vre
+40182591e5689bd1,Europe,vre,50%,,,-18.47529737835612,13.0,0.5,50,reused_q50_national_vre
+40182591e5689bd1,Europe,vre,75%,,,-11.45864018346947,20.0,0.75,50,reused_q50_national_vre
+40182591e5689bd1,Europe,vre,100%,,,-9.09507579793717,23.0,1.0,50,reused_q50_national_vre
+40182591e5689bd1,Europe,vre,2030 plan,,,-16.686359167428236,13.0,0.528164452962361,50,reused_q50_national_vre
+426134d0da1e993a,Europe,vre,observed,,,-34.28669582706425,0.0,0.132325723823259,50,reused_q50_national_vre
+426134d0da1e993a,Europe,vre,50%,,,-20.293816854600664,13.0,0.5,50,reused_q50_national_vre
+426134d0da1e993a,Europe,vre,75%,,,-18.39427198846533,15.0,0.75,50,reused_q50_national_vre
+426134d0da1e993a,Europe,vre,100%,,,-17.161771910903553,16.0,1.0,50,reused_q50_national_vre
+426134d0da1e993a,Europe,vre,2030 plan,,,-22.982851615266554,8.0,0.404673858032387,50,reused_q50_national_vre
+42edf837b8748a0a,Europe,vre,observed,,,-34.31683410214828,0.0,0.24697933778452,50,reused_q50_national_vre
+42edf837b8748a0a,Europe,vre,50%,,,-17.135372983459092,13.0,0.5,50,reused_q50_national_vre
+42edf837b8748a0a,Europe,vre,75%,,,-6.879751699980261,22.0,0.75,50,reused_q50_national_vre
+42edf837b8748a0a,Europe,vre,100%,,,-2.6519389549212065,27.0,1.0,50,reused_q50_national_vre
+42edf837b8748a0a,Europe,vre,2030 plan,,,-5.750734885674319,23.0,0.8132212441639737,50,reused_q50_national_vre
+431bd43c0b55a0cd,Europe,vre,observed,,,-34.28669582706425,0.0,0.1305745786676819,50,reused_q50_national_vre
+431bd43c0b55a0cd,Europe,vre,50%,,,-16.75095451110974,13.0,0.5,50,reused_q50_national_vre
+431bd43c0b55a0cd,Europe,vre,75%,,,-9.27071225506188,22.0,0.7500000000000001,50,reused_q50_national_vre
+431bd43c0b55a0cd,Europe,vre,100%,,,-7.641566083235375,25.0,1.0,50,reused_q50_national_vre
+431bd43c0b55a0cd,Europe,vre,2030 plan,,,-14.103039738611187,14.0,0.5430449742408493,50,reused_q50_national_vre
+44d818567d763d2b,Europe,vre,observed,,,-34.28669582706061,0.0,0.2241574664812279,50,reused_q50_national_vre
+44d818567d763d2b,Europe,vre,50%,,,-23.757070063700667,9.0,0.5,50,reused_q50_national_vre
+44d818567d763d2b,Europe,vre,75%,,,-9.34767216975888,19.0,0.75,50,reused_q50_national_vre
+44d818567d763d2b,Europe,vre,100%,,,-2.679065009840997,28.0,1.0,50,reused_q50_national_vre
+44d818567d763d2b,Europe,vre,2030 plan,,,-4.4397771999647375,23.0,0.9142713514170014,50,reused_q50_national_vre
+472434ff9a617ff0,Europe,vre,observed,,,-34.28669582706425,0.0,0.2445602957574282,50,reused_q50_national_vre
+472434ff9a617ff0,Europe,vre,50%,,,-28.01599686191548,3.0,0.5,50,reused_q50_national_vre
+472434ff9a617ff0,Europe,vre,75%,,,-9.296193269947253,21.0,0.75,50,reused_q50_national_vre
+472434ff9a617ff0,Europe,vre,100%,,,-1.4800905988413433,28.0,1.0,50,reused_q50_national_vre
+472434ff9a617ff0,Europe,vre,2030 plan,,,-12.541053983786696,17.0,0.6949679378882482,50,reused_q50_national_vre
+48f5fbf4ea01f8ca,Europe,vre,observed,,,-34.28669582706061,0.0,0.099818634332284,50,reused_q50_national_vre
+48f5fbf4ea01f8ca,Europe,vre,50%,,,-15.605061131325783,12.0,0.5,50,reused_q50_national_vre
+48f5fbf4ea01f8ca,Europe,vre,75%,,,-7.255994064275001,19.0,0.75,50,reused_q50_national_vre
+48f5fbf4ea01f8ca,Europe,vre,100%,,,-3.089720407027926,25.0,1.0,50,reused_q50_national_vre
+48f5fbf4ea01f8ca,Europe,vre,2030 plan,,,-13.521713550886489,13.0,0.5373321373303599,50,reused_q50_national_vre
+4dfdc9ccde79c755,Europe,vre,observed,,,-34.28669582706425,0.0,0.1413642096624725,50,reused_q50_national_vre
+4dfdc9ccde79c755,Europe,vre,50%,,,-20.448591832662714,8.0,0.5,50,reused_q50_national_vre
+4dfdc9ccde79c755,Europe,vre,75%,,,-6.917650038927604,20.0,0.75,50,reused_q50_national_vre
+4dfdc9ccde79c755,Europe,vre,100%,,,-2.714416666845864,24.0,1.0,50,reused_q50_national_vre
+4dfdc9ccde79c755,Europe,vre,2030 plan,,,-18.980025428731096,8.0,0.5223156788061656,50,reused_q50_national_vre
+4fcc142f53083d46,Europe,vre,observed,,,-34.28669582706425,0.0,0.1340059486341408,50,reused_q50_national_vre
+4fcc142f53083d46,Europe,vre,50%,,,-17.680088520683057,9.0,0.5,50,reused_q50_national_vre
+4fcc142f53083d46,Europe,vre,75%,,,-6.716480055463762,22.0,0.75,50,reused_q50_national_vre
+4fcc142f53083d46,Europe,vre,100%,,,-4.406815284615732,26.0,1.0,50,reused_q50_national_vre
+4fcc142f53083d46,Europe,vre,2030 plan,,,-13.459330952944583,11.0,0.547322132001769,50,reused_q50_national_vre
+4fe14978e6589ab2,Europe,vre,observed,,,-34.28669582706425,0.0,0.0577620229336977,50,reused_q50_national_vre
+4fe14978e6589ab2,Europe,vre,50%,,,-22.34226070791192,5.0,0.5,50,reused_q50_national_vre
+4fe14978e6589ab2,Europe,vre,75%,,,-8.694278076272894,21.0,0.75,50,reused_q50_national_vre
+4fe14978e6589ab2,Europe,vre,100%,,,-3.8545244700217154,25.0,1.0,50,reused_q50_national_vre
+4fe14978e6589ab2,Europe,vre,2030 plan,,,-34.3235681421429,0.0,0.2980741208286597,50,reused_q50_national_vre
+512415ca63d51d48,Europe,vre,observed,,,-34.28669582706061,0.0,0.2581199265976518,50,reused_q50_national_vre
+512415ca63d51d48,Europe,vre,50%,,,-20.98010878659261,10.0,0.5,50,reused_q50_national_vre
+512415ca63d51d48,Europe,vre,75%,,,-7.544291475416685,18.0,0.7499999999999999,50,reused_q50_national_vre
+512415ca63d51d48,Europe,vre,100%,,,-2.6580780892036278,25.0,1.0,50,reused_q50_national_vre
+512415ca63d51d48,Europe,vre,2030 plan,,,-26.003390196914552,6.0,0.4183935038184806,50,reused_q50_national_vre
+5248317c8abec8f6,Europe,vre,observed,,,-34.28669582706061,0.0,0.123896177362072,50,reused_q50_national_vre
+5248317c8abec8f6,Europe,vre,50%,,,-18.489961537481577,11.0,0.5,50,reused_q50_national_vre
+5248317c8abec8f6,Europe,vre,75%,,,-11.71435057175404,19.0,0.75,50,reused_q50_national_vre
+5248317c8abec8f6,Europe,vre,100%,,,-9.555355877120746,21.0,1.0,50,reused_q50_national_vre
+5248317c8abec8f6,Europe,vre,2030 plan,,,-15.69116399630002,11.0,0.5605540441529164,50,reused_q50_national_vre
+542e0d5ab07041d6,Europe,vre,observed,,,-34.28669582706425,0.0,0.0566565438901796,50,reused_q50_national_vre
+542e0d5ab07041d6,Europe,vre,50%,,,-25.198763690652413,4.0,0.5,50,reused_q50_national_vre
+542e0d5ab07041d6,Europe,vre,75%,,,-15.547558536076394,15.0,0.75,50,reused_q50_national_vre
+542e0d5ab07041d6,Europe,vre,100%,,,-9.917919867551973,20.0,1.0,50,reused_q50_national_vre
+542e0d5ab07041d6,Europe,vre,2030 plan,,,-34.32639977035069,0.0,0.3130553614833599,50,reused_q50_national_vre
+559854d31423440c,Europe,vre,observed,,,-34.28669582706425,0.0,0.1706395307851485,50,reused_q50_national_vre
+559854d31423440c,Europe,vre,50%,,,-20.90622829044605,9.0,0.5,50,reused_q50_national_vre
+559854d31423440c,Europe,vre,75%,,,-16.744130959046743,12.0,0.75,50,reused_q50_national_vre
+559854d31423440c,Europe,vre,100%,,,-15.249074069134622,14.0,1.0,50,reused_q50_national_vre
+559854d31423440c,Europe,vre,2030 plan,,,-22.74005529985061,9.0,0.427637023188617,50,reused_q50_national_vre
+569ef0115a4d5d22,Europe,vre,observed,,,-34.28669582706425,0.0,0.2117763754758166,50,reused_q50_national_vre
+569ef0115a4d5d22,Europe,vre,50%,,,-15.12535486384877,12.0,0.5,50,reused_q50_national_vre
+569ef0115a4d5d22,Europe,vre,75%,,,-4.719257755456056,27.0,0.75,50,reused_q50_national_vre
+569ef0115a4d5d22,Europe,vre,100%,,,-2.692149713879189,28.0,1.0,50,reused_q50_national_vre
+569ef0115a4d5d22,Europe,vre,2030 plan,,,-26.923065842602227,4.0,0.4241564170809383,50,reused_q50_national_vre
+58855547736410e8,Europe,vre,observed,,,-34.28669582706425,0.0,0.1442950726155431,50,reused_q50_national_vre
+58855547736410e8,Europe,vre,50%,,,-20.267607631079954,9.0,0.5,50,reused_q50_national_vre
+58855547736410e8,Europe,vre,75%,,,-10.618037414222272,21.0,0.75,50,reused_q50_national_vre
+58855547736410e8,Europe,vre,100%,,,-10.109188925669514,24.0,1.0,50,reused_q50_national_vre
+58855547736410e8,Europe,vre,2030 plan,,,-15.725812101189147,13.0,0.5784369106566394,50,reused_q50_national_vre
+5ada0cc0e8b2318e,Europe,vre,observed,,,-34.28669582706425,0.0,0.132652484499668,50,reused_q50_national_vre
+5ada0cc0e8b2318e,Europe,vre,50%,,,-19.258736722413232,10.0,0.5,50,reused_q50_national_vre
+5ada0cc0e8b2318e,Europe,vre,75%,,,-9.662665647540052,16.0,0.75,50,reused_q50_national_vre
+5ada0cc0e8b2318e,Europe,vre,100%,,,-5.0800678544947,21.0,1.0,50,reused_q50_national_vre
+5ada0cc0e8b2318e,Europe,vre,2030 plan,,,-18.048823749217263,10.0,0.5281525267773572,50,reused_q50_national_vre
+6135b7dc1e3b86ca,Europe,vre,observed,,,-34.28669582706516,0.0,0.0689194611495931,50,reused_q50_national_vre
+6135b7dc1e3b86ca,Europe,vre,50%,,,50.57185788964944,9.0,0.5,50,reused_q50_national_vre
+6135b7dc1e3b86ca,Europe,vre,75%,,,54.08212255884792,15.0,0.75,50,reused_q50_national_vre
+6135b7dc1e3b86ca,Europe,vre,100%,,,56.68170938690128,17.0,1.0,50,reused_q50_national_vre
+6135b7dc1e3b86ca,Europe,vre,2030 plan,,,48.28379539884554,7.0,0.4251460017836629,50,reused_q50_national_vre
+668ab7389a8ba48f,Europe,vre,observed,,,-34.28669582706425,0.0,0.1143986908994927,50,reused_q50_national_vre
+668ab7389a8ba48f,Europe,vre,50%,,,-14.927701592125231,11.0,0.5,50,reused_q50_national_vre
+668ab7389a8ba48f,Europe,vre,75%,,,-6.5260319769440684,22.0,0.75,50,reused_q50_national_vre
+668ab7389a8ba48f,Europe,vre,100%,,,-3.022098336725321,25.0,1.0,50,reused_q50_national_vre
+668ab7389a8ba48f,Europe,vre,2030 plan,,,-15.131596741026442,11.0,0.4954831943392959,50,reused_q50_national_vre
+6a1e128e583ba723,Europe,vre,observed,,,-34.28669582706425,0.0,0.124749073836963,50,reused_q50_national_vre
+6a1e128e583ba723,Europe,vre,50%,,,-24.042386971364976,5.0,0.5,50,reused_q50_national_vre
+6a1e128e583ba723,Europe,vre,75%,,,-4.941875066659122,23.0,0.75,50,reused_q50_national_vre
+6a1e128e583ba723,Europe,vre,100%,,,0.0974707416571618,32.0,1.0,50,reused_q50_national_vre
+6a1e128e583ba723,Europe,vre,2030 plan,,,0.6247319151461852,33.0,1.0926580665544257,50,reused_q50_national_vre
+6b2bda129c8ba418,Europe,vre,observed,,,-16.349444581908756,11.0,0.4673304990261431,50,reused_q50_national_vre
+6b2bda129c8ba418,Europe,vre,50%,,,-13.27498891592404,14.0,0.5,50,reused_q50_national_vre
+6b2bda129c8ba418,Europe,vre,75%,,,1.370297611822025,30.0,0.75,50,reused_q50_national_vre
+6b2bda129c8ba418,Europe,vre,100%,,,6.907468273268023,36.0,1.0,50,reused_q50_national_vre
+6b2bda129c8ba418,Europe,vre,2030 plan,,,9.05605444606772,40.0,1.0955134621354716,50,reused_q50_national_vre
+6be493bed568d2c9,Europe,vre,observed,,,-34.28669582706061,0.0,0.0193501268345935,50,reused_q50_national_vre
+6be493bed568d2c9,Europe,vre,50%,,,-21.94590055581648,14.0,0.5,50,reused_q50_national_vre
+6be493bed568d2c9,Europe,vre,75%,,,-20.023876261839177,18.0,0.75,50,reused_q50_national_vre
+6be493bed568d2c9,Europe,vre,100%,,,-18.032578989543254,21.0,1.0,50,reused_q50_national_vre
+6be493bed568d2c9,Europe,vre,2030 plan,,,-22.55949743025849,13.0,0.4306773331992702,50,reused_q50_national_vre
+6c839fd668caa6da,Europe,vre,observed,,,-34.28669582706425,0.0,0.0855112599653883,50,reused_q50_national_vre
+6c839fd668caa6da,Europe,vre,50%,,,-24.038646843573588,10.0,0.5,50,reused_q50_national_vre
+6c839fd668caa6da,Europe,vre,75%,,,-19.751049797423548,13.0,0.75,50,reused_q50_national_vre
+6c839fd668caa6da,Europe,vre,100%,,,-18.419411810949896,15.0,1.0,50,reused_q50_national_vre
+6c839fd668caa6da,Europe,vre,2030 plan,,,-25.53666503003842,9.0,0.430945365641222,50,reused_q50_national_vre
+71fd83bdc82cd5b6,Europe,vre,observed,,,-34.28669582706061,0.0,0.22768038661612,50,reused_q50_national_vre
+71fd83bdc82cd5b6,Europe,vre,50%,,,-22.29909205833974,9.0,0.5,50,reused_q50_national_vre
+71fd83bdc82cd5b6,Europe,vre,75%,,,-9.50600102437602,18.0,0.75,50,reused_q50_national_vre
+71fd83bdc82cd5b6,Europe,vre,100%,,,-4.112519415844872,25.0,1.0,50,reused_q50_national_vre
+71fd83bdc82cd5b6,Europe,vre,2030 plan,,,-4.169747731095413,25.0,0.9929359752828524,50,reused_q50_national_vre
+7426434f278ab0b4,Europe,vre,observed,,,-34.28669582706425,0.0,0.2919708061076207,50,reused_q50_national_vre
+7426434f278ab0b4,Europe,vre,50%,,,-23.74136735066349,8.0,0.5,50,reused_q50_national_vre
+7426434f278ab0b4,Europe,vre,75%,,,-6.440203491354623,24.0,0.75,50,reused_q50_national_vre
+7426434f278ab0b4,Europe,vre,100%,,,-3.6011318913188006,28.0,1.0,50,reused_q50_national_vre
+7426434f278ab0b4,Europe,vre,2030 plan,,,-3.7963297473870634,28.0,0.9650151269768974,50,reused_q50_national_vre
+770570cf84c37571,Europe,vre,observed,,,-34.28669582706425,0.0,0.1234103919326933,50,reused_q50_national_vre
+770570cf84c37571,Europe,vre,50%,,,-20.38764116040511,8.0,0.5,50,reused_q50_national_vre
+770570cf84c37571,Europe,vre,75%,,,-10.006458330541136,19.0,0.75,50,reused_q50_national_vre
+770570cf84c37571,Europe,vre,100%,,,-6.86427122596433,26.0,1.0,50,reused_q50_national_vre
+770570cf84c37571,Europe,vre,2030 plan,,,-34.34837113674803,0.0,0.3065362293443773,50,reused_q50_national_vre
+7760534f960ef5d1,Europe,vre,observed,,,-34.28669582706425,0.0,0.1279345728332872,50,reused_q50_national_vre
+7760534f960ef5d1,Europe,vre,50%,,,-11.365303224893069,10.0,0.5,50,reused_q50_national_vre
+7760534f960ef5d1,Europe,vre,75%,,,-4.9963844307167165,20.0,0.75,50,reused_q50_national_vre
+7760534f960ef5d1,Europe,vre,100%,,,-1.698709664213311,23.0,1.0,50,reused_q50_national_vre
+7760534f960ef5d1,Europe,vre,2030 plan,,,-8.925662827683482,14.0,0.5462004233813059,50,reused_q50_national_vre
+777a58d014d25dde,Europe,vre,observed,,,-34.28669582706425,0.0,0.3458439994134211,50,reused_q50_national_vre
+777a58d014d25dde,Europe,vre,50%,,,-28.50914236981771,4.0,0.5,50,reused_q50_national_vre
+777a58d014d25dde,Europe,vre,75%,,,-7.385579794939986,20.0,0.75,50,reused_q50_national_vre
+777a58d014d25dde,Europe,vre,100%,,,-2.212038776047848,29.0,1.0,50,reused_q50_national_vre
+777a58d014d25dde,Europe,vre,2030 plan,,,-9.131887448875204,20.0,0.7174638190912261,50,reused_q50_national_vre
+7918e155f13102ee,Europe,vre,observed,,,-34.30562332801128,0.0,0.2632444606740775,50,reused_q50_national_vre
+7918e155f13102ee,Europe,vre,50%,,,-16.361151691347914,13.0,0.5,50,reused_q50_national_vre
+7918e155f13102ee,Europe,vre,75%,,,-4.021913887416304,26.0,0.75,50,reused_q50_national_vre
+7918e155f13102ee,Europe,vre,100%,,,0.2308284406426537,29.0,1.0,50,reused_q50_national_vre
+7918e155f13102ee,Europe,vre,2030 plan,,,-2.466686866569944,26.0,0.8367979111014799,50,reused_q50_national_vre
+7b9670c2f640c6b1,Europe,vre,observed,,,-34.28669582706061,0.0,0.160957556807251,50,reused_q50_national_vre
+7b9670c2f640c6b1,Europe,vre,50%,,,-24.27009583898325,5.0,0.5,50,reused_q50_national_vre
+7b9670c2f640c6b1,Europe,vre,75%,,,-12.546180908815586,17.0,0.75,50,reused_q50_national_vre
+7b9670c2f640c6b1,Europe,vre,100%,,,-8.77213879217743,23.0,1.0,50,reused_q50_national_vre
+7b9670c2f640c6b1,Europe,vre,2030 plan,,,-34.28669582706061,0.0,0.297665103649273,50,reused_q50_national_vre
+7e70283d8df03022,Europe,vre,observed,,,-34.28669582706425,0.0,0.3808471176204979,50,reused_q50_national_vre
+7e70283d8df03022,Europe,vre,50%,,,-29.73822793536237,1.0,0.5,50,reused_q50_national_vre
+7e70283d8df03022,Europe,vre,75%,,,-8.916930112849514,20.0,0.75,50,reused_q50_national_vre
+7e70283d8df03022,Europe,vre,100%,,,-4.355476028282283,27.0,1.0,50,reused_q50_national_vre
+7e70283d8df03022,Europe,vre,2030 plan,,,-11.451713754093362,16.0,0.7031555094112182,50,reused_q50_national_vre
+859cabd60fec3442,Europe,vre,observed,,,-34.28669582706061,0.0,0.1821988023511201,50,reused_q50_national_vre
+859cabd60fec3442,Europe,vre,50%,,,-13.157724977609178,13.0,0.5,50,reused_q50_national_vre
+859cabd60fec3442,Europe,vre,75%,,,-5.405568227135518,24.0,0.75,50,reused_q50_national_vre
+859cabd60fec3442,Europe,vre,100%,,,-2.523774265857355,28.0,1.0,50,reused_q50_national_vre
+859cabd60fec3442,Europe,vre,2030 plan,,,-10.709100233238132,19.0,0.563114651377058,50,reused_q50_national_vre
+87b03ace94239bf4,Europe,vre,observed,,,-34.28669582706425,0.0,0.3321357938488514,50,reused_q50_national_vre
+87b03ace94239bf4,Europe,vre,50%,,,-22.910410098626016,8.0,0.5,50,reused_q50_national_vre
+87b03ace94239bf4,Europe,vre,75%,,,-6.2065825850841065,20.0,0.75,50,reused_q50_national_vre
+87b03ace94239bf4,Europe,vre,100%,,,-0.2335124334349529,30.0,1.0,50,reused_q50_national_vre
+87b03ace94239bf4,Europe,vre,2030 plan,,,-0.2790302817484189,30.0,0.993670245720992,50,reused_q50_national_vre
+87d037415caa7d45,Europe,vre,observed,,,-34.18520707626158,0.0,0.4218006861131934,50,reused_q50_national_vre
+87d037415caa7d45,Europe,vre,50%,,,-27.842719388463596,5.0,0.5,50,reused_q50_national_vre
+87d037415caa7d45,Europe,vre,75%,,,-7.433324365709268,24.0,0.75,50,reused_q50_national_vre
+87d037415caa7d45,Europe,vre,100%,,,-5.502675377756532,26.0,1.0,50,reused_q50_national_vre
+87d037415caa7d45,Europe,vre,2030 plan,,,-5.45389868219354,26.0,1.011208534112205,50,reused_q50_national_vre
+87d5b264ce69a411,Europe,vre,observed,,,-34.28669582706425,0.0,0.1719760733872718,50,reused_q50_national_vre
+87d5b264ce69a411,Europe,vre,50%,,,-17.765836517184653,9.0,0.5,50,reused_q50_national_vre
+87d5b264ce69a411,Europe,vre,75%,,,-9.53702315512055,18.0,0.7500000000000001,50,reused_q50_national_vre
+87d5b264ce69a411,Europe,vre,100%,,,-5.341224151448841,23.0,1.0,50,reused_q50_national_vre
+87d5b264ce69a411,Europe,vre,2030 plan,,,-17.000996398710413,11.0,0.5192642921262933,50,reused_q50_national_vre
+8c993c58ce292534,Europe,vre,observed,,,-34.28669582706425,0.0,0.3069672952536585,50,reused_q50_national_vre
+8c993c58ce292534,Europe,vre,50%,,,-25.753521100126815,5.0,0.5,50,reused_q50_national_vre
+8c993c58ce292534,Europe,vre,75%,,,-9.09774855615251,22.0,0.75,50,reused_q50_national_vre
+8c993c58ce292534,Europe,vre,100%,,,-3.7534456079883967,25.0,1.0,50,reused_q50_national_vre
+8c993c58ce292534,Europe,vre,2030 plan,,,-11.941233911513336,19.0,0.6900348595378014,50,reused_q50_national_vre
+8cfb6fcf9c00986b,Europe,vre,observed,,,-34.28669582706425,0.0,0.1360999427380392,50,reused_q50_national_vre
+8cfb6fcf9c00986b,Europe,vre,50%,,,-18.758355202317038,10.0,0.5,50,reused_q50_national_vre
+8cfb6fcf9c00986b,Europe,vre,75%,,,-4.373692511024274,24.0,0.75,50,reused_q50_national_vre
+8cfb6fcf9c00986b,Europe,vre,100%,,,-1.3777229690531383,29.0,1.0,50,reused_q50_national_vre
+8cfb6fcf9c00986b,Europe,vre,2030 plan,,,-25.819144110577327,5.0,0.4387369292738131,50,reused_q50_national_vre
+8d2c83ca89b78363,Europe,vre,observed,,,-34.28669582706425,0.0,0.1369698454845099,50,reused_q50_national_vre
+8d2c83ca89b78363,Europe,vre,50%,,,-18.26990471844329,12.0,0.5,50,reused_q50_national_vre
+8d2c83ca89b78363,Europe,vre,75%,,,-11.296090736606857,19.0,0.75,50,reused_q50_national_vre
+8d2c83ca89b78363,Europe,vre,100%,,,-7.680253512229683,25.0,1.0,50,reused_q50_national_vre
+8d2c83ca89b78363,Europe,vre,2030 plan,,,-15.267162739964988,15.0,0.573961632456006,50,reused_q50_national_vre
+8d4a3537740eb671,Europe,vre,observed,,,-34.28669582706425,0.0,0.3655152640945488,50,reused_q50_national_vre
+8d4a3537740eb671,Europe,vre,50%,,,-23.48356601441992,6.0,0.5,50,reused_q50_national_vre
+8d4a3537740eb671,Europe,vre,75%,,,-10.018438539838826,19.0,0.75,50,reused_q50_national_vre
+8d4a3537740eb671,Europe,vre,100%,,,-5.414708006879664,26.0,1.0,50,reused_q50_national_vre
+8d4a3537740eb671,Europe,vre,2030 plan,,,-5.961783081715112,24.0,0.9729934701784426,50,reused_q50_national_vre
+8dc420f457eb7a5d,Europe,vre,observed,,,-34.28669582706061,0.0,0.0403402239923849,50,reused_q50_national_vre
+8dc420f457eb7a5d,Europe,vre,50%,,,-16.1033669472381,13.0,0.5,50,reused_q50_national_vre
+8dc420f457eb7a5d,Europe,vre,75%,,,-12.86002529860707,18.0,0.75,50,reused_q50_national_vre
+8dc420f457eb7a5d,Europe,vre,100%,,,-10.082764161314117,21.0,1.0,50,reused_q50_national_vre
+8dc420f457eb7a5d,Europe,vre,2030 plan,,,-32.49562506186339,0.0,0.2031928302567518,50,reused_q50_national_vre
+8dcc5f2cb69692f6,Europe,vre,observed,,,-34.319448215734155,0.0,0.3074671507929067,50,reused_q50_national_vre
+8dcc5f2cb69692f6,Europe,vre,50%,,,-25.082326728032054,7.0,0.5,50,reused_q50_national_vre
+8dcc5f2cb69692f6,Europe,vre,75%,,,-16.283086532923335,15.0,0.7499999999999999,50,reused_q50_national_vre
+8dcc5f2cb69692f6,Europe,vre,100%,,,-11.842680121244484,17.0,1.0,50,reused_q50_national_vre
+8dcc5f2cb69692f6,Europe,vre,2030 plan,,,-15.24162789651018,16.0,0.7958131171694987,50,reused_q50_national_vre
+90eb6b30759175e2,Europe,vre,observed,,,-34.213883029835415,0.0,0.4426483918585404,50,reused_q50_national_vre
+90eb6b30759175e2,Europe,vre,50%,,,-31.874856487975197,2.0,0.5,50,reused_q50_national_vre
+90eb6b30759175e2,Europe,vre,75%,,,-6.626066032767994,20.0,0.75,50,reused_q50_national_vre
+90eb6b30759175e2,Europe,vre,100%,,,-1.6419181407763972,27.0,1.0,50,reused_q50_national_vre
+90eb6b30759175e2,Europe,vre,2030 plan,,,-8.307468401748338,17.0,0.7122380938164707,50,reused_q50_national_vre
+92b4739b4f9ce950,Europe,vre,observed,,,-34.28669582706061,0.0,0.0261864173106724,50,reused_q50_national_vre
+92b4739b4f9ce950,Europe,vre,50%,,,-25.537795635020306,15.0,0.5,50,reused_q50_national_vre
+92b4739b4f9ce950,Europe,vre,75%,,,-24.347286711730703,17.0,0.75,50,reused_q50_national_vre
+92b4739b4f9ce950,Europe,vre,100%,,,-24.07016635290347,18.0,1.0,50,reused_q50_national_vre
+92b4739b4f9ce950,Europe,vre,2030 plan,,,-26.060495830526637,14.0,0.4124965897429796,50,reused_q50_national_vre
+9363836a5b9fe417,Europe,vre,observed,,,-34.139893078601744,0.0,0.3257223441321197,50,reused_q50_national_vre
+9363836a5b9fe417,Europe,vre,50%,,,-22.92131661844905,6.0,0.5,50,reused_q50_national_vre
+9363836a5b9fe417,Europe,vre,75%,,,-11.723873112190631,17.0,0.75,50,reused_q50_national_vre
+9363836a5b9fe417,Europe,vre,100%,,,-8.569619153189706,21.0,1.0,50,reused_q50_national_vre
+9363836a5b9fe417,Europe,vre,2030 plan,,,-10.896150115600904,20.0,0.8105588874083614,50,reused_q50_national_vre
+9409354caa83cb74,Europe,vre,observed,,,-34.28669582706425,0.0,0.2687262400085331,50,reused_q50_national_vre
+9409354caa83cb74,Europe,vre,50%,,,-21.632664809159905,8.0,0.5,50,reused_q50_national_vre
+9409354caa83cb74,Europe,vre,75%,,,-7.765149757720792,21.0,0.75,50,reused_q50_national_vre
+9409354caa83cb74,Europe,vre,100%,,,-0.8729939692784683,29.0,1.0,50,reused_q50_national_vre
+9409354caa83cb74,Europe,vre,2030 plan,,,-4.687156206029613,21.0,0.8241312297833491,50,reused_q50_national_vre
+96f260ebb7230919,Europe,vre,observed,,,-34.28669582706061,0.0,0.025181086985786,50,reused_q50_national_vre
+96f260ebb7230919,Europe,vre,50%,,,-21.218199019422173,13.0,0.5,50,reused_q50_national_vre
+96f260ebb7230919,Europe,vre,75%,,,-18.034915547585115,18.0,0.75,50,reused_q50_national_vre
+96f260ebb7230919,Europe,vre,100%,,,-16.348505047921208,22.0,1.0,50,reused_q50_national_vre
+96f260ebb7230919,Europe,vre,2030 plan,,,-23.880919972914853,10.0,0.4013357444833296,50,reused_q50_national_vre
+9cdba4098f561a2f,Europe,vre,observed,,,-14.861930915678386,14.0,0.614245124141777,50,reused_q50_national_vre
+9cdba4098f561a2f,Europe,vre,50%,,,-24.279547889484093,7.0,0.5,50,reused_q50_national_vre
+9cdba4098f561a2f,Europe,vre,75%,,,-9.41785193359101,22.0,0.75,50,reused_q50_national_vre
+9cdba4098f561a2f,Europe,vre,100%,,,-4.843798450783652,27.0,1.0,50,reused_q50_national_vre
+9cdba4098f561a2f,Europe,vre,2030 plan,,,-3.761311970949464,27.0,1.0839809172855386,50,reused_q50_national_vre
+9d1e3852a02d2348,Europe,vre,observed,,,-34.28669582706516,0.0,0.0808492930883782,50,reused_q50_national_vre
+9d1e3852a02d2348,Europe,vre,50%,,,-24.66774251102288,8.0,0.5,50,reused_q50_national_vre
+9d1e3852a02d2348,Europe,vre,75%,,,-21.444174179954643,10.0,0.75,50,reused_q50_national_vre
+9d1e3852a02d2348,Europe,vre,100%,,,-19.908751500656763,12.0,1.0,50,reused_q50_national_vre
+9d1e3852a02d2348,Europe,vre,2030 plan,,,-25.200126195781195,7.0,0.445560652013623,50,reused_q50_national_vre
+a031493a5e80c71e,Europe,vre,observed,,,-34.28669582706061,0.0,0.0439964250621965,50,reused_q50_national_vre
+a031493a5e80c71e,Europe,vre,50%,,,-16.62840240978403,12.0,0.5,50,reused_q50_national_vre
+a031493a5e80c71e,Europe,vre,75%,,,-12.413911639028813,15.0,0.75,50,reused_q50_national_vre
+a031493a5e80c71e,Europe,vre,100%,,,-9.78835149895167,19.0,1.0,50,reused_q50_national_vre
+a031493a5e80c71e,Europe,vre,2030 plan,,,-32.67714027025795,1.0,0.2191223462716728,50,reused_q50_national_vre
+a06d48e667ad6cc0,Europe,vre,observed,,,-34.28669582706425,0.0,0.0860836878617426,50,reused_q50_national_vre
+a06d48e667ad6cc0,Europe,vre,50%,,,-21.31666923316516,6.0,0.5,50,reused_q50_national_vre
+a06d48e667ad6cc0,Europe,vre,75%,,,-10.560241657323786,19.0,0.75,50,reused_q50_national_vre
+a06d48e667ad6cc0,Europe,vre,100%,,,-5.081504258072528,23.0,1.0,50,reused_q50_national_vre
+a06d48e667ad6cc0,Europe,vre,2030 plan,,,-28.0849629073,3.0,0.4193696134744452,50,reused_q50_national_vre
+a0d44ba49e69b5e0,Europe,vre,observed,,,-36.60393611451582,0.0,0.2588853465085107,50,reused_q50_national_vre
+a0d44ba49e69b5e0,Europe,vre,50%,,,-19.74042711630318,10.0,0.5,50,reused_q50_national_vre
+a0d44ba49e69b5e0,Europe,vre,75%,,,-11.302711821746923,20.0,0.7500000000000001,50,reused_q50_national_vre
+a0d44ba49e69b5e0,Europe,vre,100%,,,-3.043553835737839,28.0,1.0,50,reused_q50_national_vre
+a0d44ba49e69b5e0,Europe,vre,2030 plan,,,-9.074343904692796,23.0,0.8073532762671835,50,reused_q50_national_vre
+a173a97e7a6c5413,Europe,vre,observed,,,-34.28669582706425,0.0,0.1472846469793722,50,reused_q50_national_vre
+a173a97e7a6c5413,Europe,vre,50%,,,10.321901458259164,13.0,0.5,50,reused_q50_national_vre
+a173a97e7a6c5413,Europe,vre,75%,,,17.49822837963802,18.0,0.7499999999999999,50,reused_q50_national_vre
+a173a97e7a6c5413,Europe,vre,100%,,,20.33060060855132,26.0,1.0,50,reused_q50_national_vre
+a173a97e7a6c5413,Europe,vre,2030 plan,,,12.07319554532478,15.0,0.5636812626502478,50,reused_q50_national_vre
+a20ee512d95eb3b4,Europe,vre,observed,,,-27.7058996769847,0.0,0.4209987919188579,50,reused_q50_national_vre
+a20ee512d95eb3b4,Europe,vre,50%,,,-18.023926118956297,2.0,0.5,50,reused_q50_national_vre
+a20ee512d95eb3b4,Europe,vre,75%,,,-0.2171931303746532,25.0,0.75,50,reused_q50_national_vre
+a20ee512d95eb3b4,Europe,vre,100%,,,5.370968322677072,30.0,1.0,50,reused_q50_national_vre
+a20ee512d95eb3b4,Europe,vre,2030 plan,,,4.981980295175163,28.0,0.96467598272876,50,reused_q50_national_vre
+a3b0632d485926a9,Europe,vre,observed,,,-34.28669582706425,0.0,0.1418245846397771,50,reused_q50_national_vre
+a3b0632d485926a9,Europe,vre,50%,,,-16.927160561628625,12.0,0.5,50,reused_q50_national_vre
+a3b0632d485926a9,Europe,vre,75%,,,-10.373865468016447,19.0,0.75,50,reused_q50_national_vre
+a3b0632d485926a9,Europe,vre,100%,,,-8.407897459017477,22.0,1.0,50,reused_q50_national_vre
+a3b0632d485926a9,Europe,vre,2030 plan,,,-14.147118557935755,15.0,0.5492288638692296,50,reused_q50_national_vre
+a3d595a572e7a3b9,Europe,vre,observed,,,-34.304365658746974,0.0,0.2346564044737338,50,reused_q50_national_vre
+a3d595a572e7a3b9,Europe,vre,50%,,,-21.425443197564164,7.0,0.5,50,reused_q50_national_vre
+a3d595a572e7a3b9,Europe,vre,75%,,,-4.027097911064629,26.0,0.75,50,reused_q50_national_vre
+a3d595a572e7a3b9,Europe,vre,100%,,,2.2122240426251665,31.0,1.0,50,reused_q50_national_vre
+a3d595a572e7a3b9,Europe,vre,2030 plan,,,2.9159788923752785,33.0,1.1809761316056857,50,reused_q50_national_vre
+a6b0506dfe800926,Europe,vre,observed,,,-34.28669582706425,0.0,0.3598207432292449,50,reused_q50_national_vre
+a6b0506dfe800926,Europe,vre,50%,,,-22.423940368043983,6.0,0.5,50,reused_q50_national_vre
+a6b0506dfe800926,Europe,vre,75%,,,-6.37387411027521,21.0,0.75,50,reused_q50_national_vre
+a6b0506dfe800926,Europe,vre,100%,,,-1.611858152973582,27.0,1.0,50,reused_q50_national_vre
+a6b0506dfe800926,Europe,vre,2030 plan,,,-1.6119760075271188,27.0,0.9927120415824224,50,reused_q50_national_vre
+a7fc69b4bd2ce2ce,Europe,vre,observed,,,-34.28669582706425,0.0,0.1525711829482066,50,reused_q50_national_vre
+a7fc69b4bd2ce2ce,Europe,vre,50%,,,-18.90589270197961,9.0,0.5,50,reused_q50_national_vre
+a7fc69b4bd2ce2ce,Europe,vre,75%,,,-4.980382599573204,22.0,0.75,50,reused_q50_national_vre
+a7fc69b4bd2ce2ce,Europe,vre,100%,,,-1.9376579165946168,31.0,1.0,50,reused_q50_national_vre
+a7fc69b4bd2ce2ce,Europe,vre,2030 plan,,,-4.045785263264406,25.0,0.7899413211878575,50,reused_q50_national_vre
+a85c5fd25eb6a81f,Europe,vre,observed,,,-34.28669582706425,0.0,0.112351306023591,50,reused_q50_national_vre
+a85c5fd25eb6a81f,Europe,vre,50%,,,-18.6922330052912,10.0,0.5,50,reused_q50_national_vre
+a85c5fd25eb6a81f,Europe,vre,75%,,,-6.632894157439296,21.0,0.75,50,reused_q50_national_vre
+a85c5fd25eb6a81f,Europe,vre,100%,,,-2.953431082125462,24.0,1.0,50,reused_q50_national_vre
+a85c5fd25eb6a81f,Europe,vre,2030 plan,,,-25.336024297444965,3.0,0.4318345971556406,50,reused_q50_national_vre
+a89587762cbacc1a,Europe,vre,observed,,,-26.856690434593474,4.0,0.3925129576520882,50,reused_q50_national_vre
+a89587762cbacc1a,Europe,vre,50%,,,-20.22687937747105,10.0,0.5,50,reused_q50_national_vre
+a89587762cbacc1a,Europe,vre,75%,,,-9.079380808077984,20.0,0.75,50,reused_q50_national_vre
+a89587762cbacc1a,Europe,vre,100%,,,-5.084785932529485,25.0,1.0,50,reused_q50_national_vre
+a89587762cbacc1a,Europe,vre,2030 plan,,,-4.215086405427428,25.0,1.044674624027577,50,reused_q50_national_vre
+a9b30e4cb58a812b,Europe,vre,observed,,,-34.28669582706061,0.0,0.1314840063656239,50,reused_q50_national_vre
+a9b30e4cb58a812b,Europe,vre,50%,,,-15.94300441264204,12.0,0.5,50,reused_q50_national_vre
+a9b30e4cb58a812b,Europe,vre,75%,,,-5.571885526849655,21.0,0.75,50,reused_q50_national_vre
+a9b30e4cb58a812b,Europe,vre,100%,,,-1.2718254856372369,25.0,1.0,50,reused_q50_national_vre
+a9b30e4cb58a812b,Europe,vre,2030 plan,,,-13.713181579616505,15.0,0.5498798121579185,50,reused_q50_national_vre
+a9d316b8a3d95c80,Europe,vre,observed,,,-34.291771289961616,0.0,0.2876973795708261,50,reused_q50_national_vre
+a9d316b8a3d95c80,Europe,vre,50%,,,-21.703970436883537,10.0,0.5,50,reused_q50_national_vre
+a9d316b8a3d95c80,Europe,vre,75%,,,-8.304671148300258,19.0,0.75,50,reused_q50_national_vre
+a9d316b8a3d95c80,Europe,vre,100%,,,-2.0734316462258,24.0,1.0,50,reused_q50_national_vre
+a9d316b8a3d95c80,Europe,vre,2030 plan,,,-5.293042132721894,24.0,0.8509627209010543,50,reused_q50_national_vre
+ad0d41db30bda135,Europe,vre,observed,,,-25.67582599016896,3.0,0.4343077141749353,50,reused_q50_national_vre
+ad0d41db30bda135,Europe,vre,50%,,,-18.032838807928783,11.0,0.5,50,reused_q50_national_vre
+ad0d41db30bda135,Europe,vre,75%,,,-6.357078302564332,23.0,0.75,50,reused_q50_national_vre
+ad0d41db30bda135,Europe,vre,100%,,,-2.2079313443100546,28.0,1.0,50,reused_q50_national_vre
+ad0d41db30bda135,Europe,vre,2030 plan,,,-1.4299009253736583,28.0,1.148770949319663,50,reused_q50_national_vre
+ae6b7631b26f152d,Europe,vre,observed,,,-34.28669582706425,0.0,0.0649194359713894,50,reused_q50_national_vre
+ae6b7631b26f152d,Europe,vre,50%,,,-25.810775194311645,7.0,0.5,50,reused_q50_national_vre
+ae6b7631b26f152d,Europe,vre,75%,,,-22.26271680433183,8.0,0.7500000000000001,50,reused_q50_national_vre
+ae6b7631b26f152d,Europe,vre,100%,,,-20.30033537381769,12.0,1.0,50,reused_q50_national_vre
+ae6b7631b26f152d,Europe,vre,2030 plan,,,-27.22306535097323,5.0,0.4194970009116191,50,reused_q50_national_vre
+b0a22bc88c5e3e44,Europe,vre,observed,,,-32.46650089486138,1.0,0.3771765627307005,50,reused_q50_national_vre
+b0a22bc88c5e3e44,Europe,vre,50%,,,-18.79078560788912,8.0,0.5,50,reused_q50_national_vre
+b0a22bc88c5e3e44,Europe,vre,75%,,,-5.850674962439371,23.0,0.75,50,reused_q50_national_vre
+b0a22bc88c5e3e44,Europe,vre,100%,,,-2.181274250600836,29.0,1.0,50,reused_q50_national_vre
+b0a22bc88c5e3e44,Europe,vre,2030 plan,,,-5.4210172115163004,24.0,0.76474640799099,50,reused_q50_national_vre
+b3176ad801cd0259,Europe,vre,observed,,,-34.28669582706425,0.0,0.1827157083197988,50,reused_q50_national_vre
+b3176ad801cd0259,Europe,vre,50%,,,-18.22396233728432,11.0,0.5,50,reused_q50_national_vre
+b3176ad801cd0259,Europe,vre,75%,,,-6.1371233873287565,21.0,0.75,50,reused_q50_national_vre
+b3176ad801cd0259,Europe,vre,100%,,,-1.6041155472739774,27.0,1.0,50,reused_q50_national_vre
+b3176ad801cd0259,Europe,vre,2030 plan,,,-25.54534863668232,6.0,0.4126824467098612,50,reused_q50_national_vre
+b612a93e9075cd98,Europe,vre,observed,,,-34.28669582706061,0.0,0.0446884386078389,50,reused_q50_national_vre
+b612a93e9075cd98,Europe,vre,50%,,,-15.47388409206178,16.0,0.5,50,reused_q50_national_vre
+b612a93e9075cd98,Europe,vre,75%,,,-12.357571239510436,18.0,0.75,50,reused_q50_national_vre
+b612a93e9075cd98,Europe,vre,100%,,,-10.297817338636378,20.0,1.0,50,reused_q50_national_vre
+b612a93e9075cd98,Europe,vre,2030 plan,,,-33.63466307541239,0.0,0.2160196901755492,50,reused_q50_national_vre
+b672d73f6f84c10b,Europe,vre,observed,,,-34.28669582706425,0.0,0.2387146802510994,50,reused_q50_national_vre
+b672d73f6f84c10b,Europe,vre,50%,,,-27.3124721457898,4.0,0.5,50,reused_q50_national_vre
+b672d73f6f84c10b,Europe,vre,75%,,,-9.539523922903754,20.0,0.75,50,reused_q50_national_vre
+b672d73f6f84c10b,Europe,vre,100%,,,-2.4898725241910142,29.0,1.0,50,reused_q50_national_vre
+b672d73f6f84c10b,Europe,vre,2030 plan,,,-11.278906229646964,15.0,0.7031571869264354,50,reused_q50_national_vre
+b89ed1a41c7a62a1,Europe,vre,observed,,,-34.28669582706061,0.0,0.0174583361722271,50,reused_q50_national_vre
+b89ed1a41c7a62a1,Europe,vre,50%,,,-25.13082948734518,19.0,0.5,50,reused_q50_national_vre
+b89ed1a41c7a62a1,Europe,vre,75%,,,-23.00079690066923,22.0,0.75,50,reused_q50_national_vre
+b89ed1a41c7a62a1,Europe,vre,100%,,,-22.65445605898276,25.0,1.0,50,reused_q50_national_vre
+b89ed1a41c7a62a1,Europe,vre,2030 plan,,,-26.47992033920309,15.0,0.4057613483507022,50,reused_q50_national_vre
+c2ca5ef82b240f33,Europe,vre,observed,,,-34.28669582706061,0.0,0.017708190549711,50,reused_q50_national_vre
+c2ca5ef82b240f33,Europe,vre,50%,,,-19.943581205545343,15.0,0.5,50,reused_q50_national_vre
+c2ca5ef82b240f33,Europe,vre,75%,,,-18.084975640755147,18.0,0.75,50,reused_q50_national_vre
+c2ca5ef82b240f33,Europe,vre,100%,,,-16.988034330526716,19.0,1.0,50,reused_q50_national_vre
+c2ca5ef82b240f33,Europe,vre,2030 plan,,,-21.616562378549133,12.0,0.4118674594202059,50,reused_q50_national_vre
+c32575006c0bcdd4,Europe,vre,observed,,,-34.28669582706425,0.0,0.0733405836178801,50,reused_q50_national_vre
+c32575006c0bcdd4,Europe,vre,50%,,,-23.031587144885638,8.0,0.5,50,reused_q50_national_vre
+c32575006c0bcdd4,Europe,vre,75%,,,-20.667921049463985,13.0,0.7500000000000001,50,reused_q50_national_vre
+c32575006c0bcdd4,Europe,vre,100%,,,-19.77224340379871,13.0,1.0,50,reused_q50_national_vre
+c32575006c0bcdd4,Europe,vre,2030 plan,,,-24.915941285929875,7.0,0.4335510895053386,50,reused_q50_national_vre
+c6cc5e2c625bc85f,Europe,vre,observed,,,-34.28669582706061,0.0,0.1212160051118124,50,reused_q50_national_vre
+c6cc5e2c625bc85f,Europe,vre,50%,,,-18.93159074403229,9.0,0.5,50,reused_q50_national_vre
+c6cc5e2c625bc85f,Europe,vre,75%,,,-11.458996174667844,20.0,0.75,50,reused_q50_national_vre
+c6cc5e2c625bc85f,Europe,vre,100%,,,-5.18853786514228,20.0,1.0,50,reused_q50_national_vre
+c6cc5e2c625bc85f,Europe,vre,2030 plan,,,-16.43449545945623,15.0,0.547855975459241,50,reused_q50_national_vre
+cdea689a5c1ad08e,Europe,vre,observed,,,-34.28669582706425,0.0,0.1819927025684235,50,reused_q50_national_vre
+cdea689a5c1ad08e,Europe,vre,50%,,,-21.119666777562088,8.0,0.5,50,reused_q50_national_vre
+cdea689a5c1ad08e,Europe,vre,75%,,,-7.010189581003942,19.0,0.75,50,reused_q50_national_vre
+cdea689a5c1ad08e,Europe,vre,100%,,,-0.5943109617001028,25.0,1.0,50,reused_q50_national_vre
+cdea689a5c1ad08e,Europe,vre,2030 plan,,,-5.258526426860044,21.0,0.7980377004960794,50,reused_q50_national_vre
+cec0435d8dd4ade9,Europe,vre,observed,,,-34.28669582706425,0.0,0.1061192857685589,50,reused_q50_national_vre
+cec0435d8dd4ade9,Europe,vre,50%,,,67.57942975592596,15.0,0.5,50,reused_q50_national_vre
+cec0435d8dd4ade9,Europe,vre,75%,,,71.75505056851944,20.0,0.75,50,reused_q50_national_vre
+cec0435d8dd4ade9,Europe,vre,100%,,,73.2623705677197,22.0,1.0,50,reused_q50_national_vre
+cec0435d8dd4ade9,Europe,vre,2030 plan,,,63.00147877327981,8.0,0.4154560234764418,50,reused_q50_national_vre
+cf0821ab087f8884,Europe,vre,observed,,,-34.28669582706425,0.0,0.1670899737268437,50,reused_q50_national_vre
+cf0821ab087f8884,Europe,vre,50%,,,-21.814953150415025,11.0,0.5,50,reused_q50_national_vre
+cf0821ab087f8884,Europe,vre,75%,,,-16.816606544840397,16.0,0.75,50,reused_q50_national_vre
+cf0821ab087f8884,Europe,vre,100%,,,-15.053641808380236,18.0,1.0,50,reused_q50_national_vre
+cf0821ab087f8884,Europe,vre,2030 plan,,,-19.915606915286844,13.0,0.5915485415307924,50,reused_q50_national_vre
+d183cab56cabb780,Europe,vre,observed,,,-34.28669582706061,0.0,0.0227941785596341,50,reused_q50_national_vre
+d183cab56cabb780,Europe,vre,50%,,,-22.438052794255785,10.0,0.5,50,reused_q50_national_vre
+d183cab56cabb780,Europe,vre,75%,,,-20.10315846228332,18.0,0.7500000000000001,50,reused_q50_national_vre
+d183cab56cabb780,Europe,vre,100%,,,-18.392002349268296,19.0,1.0,50,reused_q50_national_vre
+d183cab56cabb780,Europe,vre,2030 plan,,,-23.96209504661965,8.0,0.4143689900673632,50,reused_q50_national_vre
+d1baabcbb83c93d5,Europe,vre,observed,,,-30.192533830340835,2.0,0.4425099288789672,50,reused_q50_national_vre
+d1baabcbb83c93d5,Europe,vre,50%,,,-25.72227292025491,4.0,0.5,50,reused_q50_national_vre
+d1baabcbb83c93d5,Europe,vre,75%,,,-4.84531299806622,18.0,0.75,50,reused_q50_national_vre
+d1baabcbb83c93d5,Europe,vre,100%,,,-0.3536752545041963,25.0,1.0,50,reused_q50_national_vre
+d1baabcbb83c93d5,Europe,vre,2030 plan,,,-3.217612445601844,20.0,0.8029117020739309,50,reused_q50_national_vre
+d236754b9d02033f,Europe,vre,observed,,,-11.200708040410971,19.0,0.6552208783481652,50,reused_q50_national_vre
+d236754b9d02033f,Europe,vre,50%,,,-27.715782558767387,3.0,0.5,50,reused_q50_national_vre
+d236754b9d02033f,Europe,vre,75%,,,-7.973952681059018,25.0,0.75,50,reused_q50_national_vre
+d236754b9d02033f,Europe,vre,100%,,,-4.740394739834301,30.0,1.0,50,reused_q50_national_vre
+d236754b9d02033f,Europe,vre,2030 plan,,,-3.988129343426408,30.0,1.0538070957377614,50,reused_q50_national_vre
+d36a84b90be474a4,Europe,vre,observed,,,-34.28669582706425,0.0,0.1183466219309678,50,reused_q50_national_vre
+d36a84b90be474a4,Europe,vre,50%,,,-14.947299031269722,11.0,0.5,50,reused_q50_national_vre
+d36a84b90be474a4,Europe,vre,75%,,,-1.346295345985709,25.0,0.75,50,reused_q50_national_vre
+d36a84b90be474a4,Europe,vre,100%,,,2.0751468232465413,31.0,1.0,50,reused_q50_national_vre
+d36a84b90be474a4,Europe,vre,2030 plan,,,-15.111132946725776,11.0,0.4986175394772255,50,reused_q50_national_vre
+d5f0a0c19a1a8026,Europe,vre,observed,,,-23.84965769443079,4.0,0.4817859872709325,50,reused_q50_national_vre
+d5f0a0c19a1a8026,Europe,vre,50%,,,-20.596592909765604,5.0,0.5,50,reused_q50_national_vre
+d5f0a0c19a1a8026,Europe,vre,75%,,,-4.288755338693591,29.0,0.75,50,reused_q50_national_vre
+d5f0a0c19a1a8026,Europe,vre,100%,,,-2.57015047790992,33.0,1.0,50,reused_q50_national_vre
+d5f0a0c19a1a8026,Europe,vre,2030 plan,,,-2.531680856249295,33.0,1.0129850604360189,50,reused_q50_national_vre
+da962afec1a1909c,Europe,vre,observed,,,-34.28669582706425,0.0,0.1139566454461117,50,reused_q50_national_vre
+da962afec1a1909c,Europe,vre,50%,,,-23.48058462244444,5.0,0.5,50,reused_q50_national_vre
+da962afec1a1909c,Europe,vre,75%,,,-9.287199288872216,18.0,0.75,50,reused_q50_national_vre
+da962afec1a1909c,Europe,vre,100%,,,-6.656858379115874,24.0,1.0,50,reused_q50_national_vre
+da962afec1a1909c,Europe,vre,2030 plan,,,-34.28669582706425,0.0,0.3239077232010174,50,reused_q50_national_vre
+db887b5233141a46,Europe,vre,observed,,,-15.580434373376193,8.0,0.5169353070290369,50,reused_q50_national_vre
+db887b5233141a46,Europe,vre,50%,,,-17.80727589871094,8.0,0.5,50,reused_q50_national_vre
+db887b5233141a46,Europe,vre,75%,,,3.471833273681113,29.0,0.75,50,reused_q50_national_vre
+db887b5233141a46,Europe,vre,100%,,,8.44025935382524,39.0,1.0,50,reused_q50_national_vre
+db887b5233141a46,Europe,vre,2030 plan,,,8.855203087994596,42.0,1.103155390467872,50,reused_q50_national_vre
+dd42fc05ecc19c5a,Europe,vre,observed,,,-34.28669582706061,0.0,0.0200022624754689,50,reused_q50_national_vre
+dd42fc05ecc19c5a,Europe,vre,50%,,,-15.798485103892745,17.0,0.5,50,reused_q50_national_vre
+dd42fc05ecc19c5a,Europe,vre,75%,,,-13.888867143177777,20.0,0.75,50,reused_q50_national_vre
+dd42fc05ecc19c5a,Europe,vre,100%,,,-12.74208348259708,21.0,1.0,50,reused_q50_national_vre
+dd42fc05ecc19c5a,Europe,vre,2030 plan,,,-17.33176742719661,17.0,0.4272913478360127,50,reused_q50_national_vre
+dfc7f0e254b6c7e4,Europe,vre,observed,,,-34.28669582706061,0.0,0.2745791004492285,50,reused_q50_national_vre
+dfc7f0e254b6c7e4,Europe,vre,50%,,,-20.71725963235076,8.0,0.5,50,reused_q50_national_vre
+dfc7f0e254b6c7e4,Europe,vre,75%,,,-7.751327303289145,23.0,0.75,50,reused_q50_national_vre
+dfc7f0e254b6c7e4,Europe,vre,100%,,,-2.713176982186269,28.0,1.0,50,reused_q50_national_vre
+dfc7f0e254b6c7e4,Europe,vre,2030 plan,,,-3.0701231954262767,26.0,0.9738842466280832,50,reused_q50_national_vre
+e2b71c5903678917,Europe,vre,observed,,,-34.28669582706061,0.0,0.2702345923814517,50,reused_q50_national_vre
+e2b71c5903678917,Europe,vre,50%,,,-19.429655839710904,10.0,0.5,50,reused_q50_national_vre
+e2b71c5903678917,Europe,vre,75%,,,-3.2108704369384213,25.0,0.7500000000000001,50,reused_q50_national_vre
+e2b71c5903678917,Europe,vre,100%,,,-1.1101747671127669,29.0,1.0,50,reused_q50_national_vre
+e2b71c5903678917,Europe,vre,2030 plan,,,-24.148572966223583,5.0,0.4598979588897341,50,reused_q50_national_vre
+e496702639de4799,Europe,vre,observed,,,-34.28669582706425,0.0,0.3163298153580715,50,reused_q50_national_vre
+e496702639de4799,Europe,vre,50%,,,-20.16315774231407,8.0,0.5,50,reused_q50_national_vre
+e496702639de4799,Europe,vre,75%,,,-4.665811893119098,23.0,0.75,50,reused_q50_national_vre
+e496702639de4799,Europe,vre,100%,,,0.5206060854034149,26.0,1.0,50,reused_q50_national_vre
+e496702639de4799,Europe,vre,2030 plan,,,-1.2959288884048874,26.0,0.901577533979659,50,reused_q50_national_vre
+e4e2eec157b69c60,Europe,vre,observed,,,-34.28669582706425,0.0,0.1869914645159533,50,reused_q50_national_vre
+e4e2eec157b69c60,Europe,vre,50%,,,-19.78703078615217,9.0,0.5,50,reused_q50_national_vre
+e4e2eec157b69c60,Europe,vre,75%,,,-3.945469466783834,24.0,0.75,50,reused_q50_national_vre
+e4e2eec157b69c60,Europe,vre,100%,,,-1.2170274668933416,28.0,1.0,50,reused_q50_national_vre
+e4e2eec157b69c60,Europe,vre,2030 plan,,,-23.074655045114923,5.0,0.4644908517857892,50,reused_q50_national_vre
+e66dc52b382206dd,Europe,vre,observed,,,-34.28669582706061,0.0,0.4572117879346927,50,reused_q50_national_vre
+e66dc52b382206dd,Europe,vre,50%,,,-32.67069169528986,0.0,0.5,50,reused_q50_national_vre
+e66dc52b382206dd,Europe,vre,75%,,,-7.664066541277862,27.0,0.75,50,reused_q50_national_vre
+e66dc52b382206dd,Europe,vre,100%,,,-6.391559411451453,31.0,1.0,50,reused_q50_national_vre
+e66dc52b382206dd,Europe,vre,2030 plan,,,-8.66525628160889,25.0,0.7110523432039013,50,reused_q50_national_vre
+e80189a47da0de33,Europe,vre,observed,,,-34.28669582706425,0.0,0.0775102397251014,50,reused_q50_national_vre
+e80189a47da0de33,Europe,vre,50%,,,-25.60226213351052,6.0,0.5,50,reused_q50_national_vre
+e80189a47da0de33,Europe,vre,75%,,,-11.904742324379184,16.0,0.75,50,reused_q50_national_vre
+e80189a47da0de33,Europe,vre,100%,,,-7.5393847838604415,24.0,1.0,50,reused_q50_national_vre
+e80189a47da0de33,Europe,vre,2030 plan,,,-34.27667280277456,0.0,0.3049982091617262,50,reused_q50_national_vre
+e8206872c2e6df52,Europe,vre,observed,,,-17.984016542974132,9.0,0.5038671890116042,50,reused_q50_national_vre
+e8206872c2e6df52,Europe,vre,50%,,,-18.498588987164112,9.0,0.5,50,reused_q50_national_vre
+e8206872c2e6df52,Europe,vre,75%,,,-7.399145898994902,21.0,0.75,50,reused_q50_national_vre
+e8206872c2e6df52,Europe,vre,100%,,,-2.698139208925568,28.0,1.0,50,reused_q50_national_vre
+e8206872c2e6df52,Europe,vre,2030 plan,,,-1.455712187977042,29.0,1.095910184719098,50,reused_q50_national_vre
+eb6007b4817ea78b,Europe,vre,observed,,,-34.28669582706425,0.0,0.0419511957877744,50,reused_q50_national_vre
+eb6007b4817ea78b,Europe,vre,50%,,,-18.61899670861385,10.0,0.5,50,reused_q50_national_vre
+eb6007b4817ea78b,Europe,vre,75%,,,-16.78058536206663,13.0,0.75,50,reused_q50_national_vre
+eb6007b4817ea78b,Europe,vre,100%,,,-14.746643916070752,13.0,1.0,50,reused_q50_national_vre
+eb6007b4817ea78b,Europe,vre,2030 plan,,,-33.73550829433225,0.0,0.2096850392542642,50,reused_q50_national_vre
+ebce260e11052b5e,Europe,vre,observed,,,-34.32397008227781,0.0,0.0968813617321065,50,reused_q50_national_vre
+ebce260e11052b5e,Europe,vre,50%,,,-14.67906086264702,9.0,0.5,50,reused_q50_national_vre
+ebce260e11052b5e,Europe,vre,75%,,,-6.756443499674788,20.0,0.75,50,reused_q50_national_vre
+ebce260e11052b5e,Europe,vre,100%,,,-2.9018747104128124,29.0,1.0,50,reused_q50_national_vre
+ebce260e11052b5e,Europe,vre,2030 plan,,,-11.27325076339912,14.0,0.5564504230440269,50,reused_q50_national_vre
+edbc6cad5d253e87,Europe,vre,observed,,,-34.28669582706425,0.0,0.1784189188250355,50,reused_q50_national_vre
+edbc6cad5d253e87,Europe,vre,50%,,,-15.032530327520362,14.0,0.5,50,reused_q50_national_vre
+edbc6cad5d253e87,Europe,vre,75%,,,-3.788451695359981,21.0,0.75,50,reused_q50_national_vre
+edbc6cad5d253e87,Europe,vre,100%,,,1.0930575218226295,27.0,1.0,50,reused_q50_national_vre
+edbc6cad5d253e87,Europe,vre,2030 plan,,,-15.291713576763868,14.0,0.4909675228350529,50,reused_q50_national_vre
+ee290ca11bf88cdc,Europe,vre,observed,,,-34.28669582706425,0.0,0.155255066329372,50,reused_q50_national_vre
+ee290ca11bf88cdc,Europe,vre,50%,,,-22.25576211015141,10.0,0.5,50,reused_q50_national_vre
+ee290ca11bf88cdc,Europe,vre,75%,,,-13.574071693763472,18.0,0.75,50,reused_q50_national_vre
+ee290ca11bf88cdc,Europe,vre,100%,,,-11.6509601277794,18.0,1.0,50,reused_q50_national_vre
+ee290ca11bf88cdc,Europe,vre,2030 plan,,,-18.306360128762208,13.0,0.5578399691635628,50,reused_q50_national_vre
+f0cbcf60872796fe,Europe,vre,observed,,,-34.28669582706425,0.0,0.1665510368609239,50,reused_q50_national_vre
+f0cbcf60872796fe,Europe,vre,50%,,,-26.572138301688028,3.0,0.5,50,reused_q50_national_vre
+f0cbcf60872796fe,Europe,vre,75%,,,-2.4597884358736337,27.0,0.75,50,reused_q50_national_vre
+f0cbcf60872796fe,Europe,vre,100%,,,0.7990358342940453,31.0,1.0,50,reused_q50_national_vre
+f0cbcf60872796fe,Europe,vre,2030 plan,,,1.7755828215049403,32.0,1.1669191157169616,50,reused_q50_national_vre
+f0d5dae387958b5c,Europe,vre,observed,,,-34.28669582706061,0.0,0.041058462935001,50,reused_q50_national_vre
+f0d5dae387958b5c,Europe,vre,50%,,,25.788686764717568,11.0,0.5,50,reused_q50_national_vre
+f0d5dae387958b5c,Europe,vre,75%,,,30.842443291396197,15.0,0.75,50,reused_q50_national_vre
+f0d5dae387958b5c,Europe,vre,100%,,,32.99688717348181,18.0,1.0,50,reused_q50_national_vre
+f0d5dae387958b5c,Europe,vre,2030 plan,,,11.098775164449762,0.0,0.2161003813042749,50,reused_q50_national_vre
+f30f6d3629aa7cce,Europe,vre,observed,,,-33.34117144113043,0.0,0.3212839881478017,50,reused_q50_national_vre
+f30f6d3629aa7cce,Europe,vre,50%,,,-19.284171554747445,11.0,0.5,50,reused_q50_national_vre
+f30f6d3629aa7cce,Europe,vre,75%,,,-8.101242389038816,23.0,0.75,50,reused_q50_national_vre
+f30f6d3629aa7cce,Europe,vre,100%,,,-5.23690513440306,25.0,1.0,50,reused_q50_national_vre
+f30f6d3629aa7cce,Europe,vre,2030 plan,,,-7.499341132723202,25.0,0.8141390083695692,50,reused_q50_national_vre
+f4b9ba4b621ecd7d,Europe,vre,observed,,,-34.28669582706425,0.0,0.0943809888459074,50,reused_q50_national_vre
+f4b9ba4b621ecd7d,Europe,vre,50%,,,-24.107344468480733,7.0,0.5,50,reused_q50_national_vre
+f4b9ba4b621ecd7d,Europe,vre,75%,,,-10.910179140086257,16.0,0.75,50,reused_q50_national_vre
+f4b9ba4b621ecd7d,Europe,vre,100%,,,-5.4032006446504965,20.0,1.0,50,reused_q50_national_vre
+f4b9ba4b621ecd7d,Europe,vre,2030 plan,,,-33.4242153954292,0.0,0.3214464818701638,50,reused_q50_national_vre
+f5116b7a6400e0d6,Europe,vre,observed,,,-34.14574884690228,0.0,0.3699529673520046,50,reused_q50_national_vre
+f5116b7a6400e0d6,Europe,vre,50%,,,-25.57325069968647,4.0,0.5,50,reused_q50_national_vre
+f5116b7a6400e0d6,Europe,vre,75%,,,-8.834583297051722,22.0,0.7499999999999999,50,reused_q50_national_vre
+f5116b7a6400e0d6,Europe,vre,100%,,,-4.655381091171876,29.0,1.0,50,reused_q50_national_vre
+f5116b7a6400e0d6,Europe,vre,2030 plan,,,-6.023743800382363,24.0,0.8308082583683858,50,reused_q50_national_vre
+fb1deff5da92e046,Europe,vre,observed,,,-34.28669582706061,0.0,0.0202441487547907,50,reused_q50_national_vre
+fb1deff5da92e046,Europe,vre,50%,,,-24.50535034660425,10.0,0.5,50,reused_q50_national_vre
+fb1deff5da92e046,Europe,vre,75%,,,-23.255484133929716,12.0,0.75,50,reused_q50_national_vre
+fb1deff5da92e046,Europe,vre,100%,,,-23.024697849898075,16.0,1.0,50,reused_q50_national_vre
+fb1deff5da92e046,Europe,vre,2030 plan,,,-24.829625406673586,9.0,0.4280943276270155,50,reused_q50_national_vre
+ff5674966cfc946d,Europe,vre,observed,,,-34.28669582706425,0.0,0.0708814589916592,50,reused_q50_national_vre
+ff5674966cfc946d,Europe,vre,50%,,,-23.51311504331716,9.0,0.5,50,reused_q50_national_vre
+ff5674966cfc946d,Europe,vre,75%,,,-20.76552086607626,12.0,0.75,50,reused_q50_national_vre
+ff5674966cfc946d,Europe,vre,100%,,,-19.482283731258576,14.0,1.0,50,reused_q50_national_vre
+ff5674966cfc946d,Europe,vre,2030 plan,,,-24.96542088856222,7.0,0.4444589234241902,50,reused_q50_national_vre

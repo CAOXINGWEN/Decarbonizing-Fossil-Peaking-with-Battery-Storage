@@ -1,0 +1,13 @@
+config,parameter,original,updated,difference
+caes_24h,rte,0.55,0.55,0.0
+caes_24h,charge_power_ratio,1.5,1.5,0.0
+caes_24h,self_discharge_pct_day,0.01,0.01,0.0
+caes_24h,duration_h,24.0,24.0,0.0
+h2_tank_24h,rte,0.37,0.3207869390882381,-0.04921306091176192
+h2_tank_24h,charge_power_ratio,3.0,3.0,0.0
+h2_tank_24h,self_discharge_pct_day,0.001,0.0,-0.001
+h2_tank_24h,duration_h,24.0,24.0,0.0
+h2_tank_168h,rte,0.37,0.3207869390882381,-0.04921306091176192
+h2_tank_168h,charge_power_ratio,3.0,3.0,0.0
+h2_tank_168h,self_discharge_pct_day,0.001,0.0,-0.001
+h2_tank_168h,duration_h,168.0,168.0,0.0

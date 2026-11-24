@@ -1,0 +1,13 @@
+group,variant,tech,duration_h,records
+community,caes_24h,caes,24.0,1468
+community,li_lfp_4h,li_lfp,4.0,9144
+national,caes_24h,caes,24.0,24
+national,li_lfp_4h,li_lfp,4.0,108
+provincial,caes_12h,caes,12.0,1
+provincial,caes_14h,caes,14.0,1
+provincial,caes_16h,caes,16.0,1
+provincial,caes_20h,caes,20.0,1
+provincial,caes_24h,caes,24.0,58
+provincial,li_lfp_4h,li_lfp,4.0,239
+provincial,li_lfp_6h,li_lfp,6.0,7
+provincial,li_lfp_8h,li_lfp,8.0,2

@@ -1,0 +1,599 @@
+{
+  "configuration": "hydrogen_tank_only",
+  "physical_parameters": {
+    "electrolysis_kwh_ac_kg": 56.585618061439924,
+    "compression_kwh_ac_kg": 3.5789262147570478,
+    "generation_kwh_ac_kg": 19.3,
+    "rte": 0.3207869390882381,
+    "charge_power_ratio": 3.0,
+    "self_discharge_pct_day": 0.0
+  },
+  "dea": {
+    "2025": {
+      "tank_eur_kwh_h2": 18.017822113199994,
+      "installation_eur_kwh_h2": 9.008911056599997,
+      "compression_kwh_ac_kg": 3.8588422315536874,
+      "source_price_year": 2020,
+      "interpolation_year": 2025
+    },
+    "2030": {
+      "tank_eur_kwh_h2": 16.894444226399994,
+      "installation_eur_kwh_h2": 8.447222113199997,
+      "compression_kwh_ac_kg": 3.7188842231553676,
+      "source_price_year": 2020,
+      "interpolation_year": 2030
+    },
+    "2035": {
+      "tank_eur_kwh_h2": 14.375854270016735,
+      "installation_eur_kwh_h2": 7.582145149799997,
+      "compression_kwh_ac_kg": 3.5789262147570478,
+      "source_price_year": 2020,
+      "interpolation_year": 2035
+    }
+  },
+  "catalogue": {
+    "li_lfp_4h": {
+      "duration_h": 4.0,
+      "rte": 0.9,
+      "self_discharge_pct_day": 0.03,
+      "charge_power_ratio": 1.0,
+      "tech_id": "li_lfp",
+      "fixed_cost_eur_kw_year": 14.073446578812316,
+      "vom_eur_mwh": 0.2463507959980648
+    },
+    "vrfb_4h": {
+      "duration_h": 4.0,
+      "rte": 0.75,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 2.0,
+      "tech_id": "vrfb",
+      "fixed_cost_eur_kw_year": 51.25706632537321,
+      "vom_eur_mwh": 0.8622277859932268
+    },
+    "li_lfp_6h": {
+      "duration_h": 6.0,
+      "rte": 0.9,
+      "self_discharge_pct_day": 0.03,
+      "charge_power_ratio": 1.0,
+      "tech_id": "li_lfp",
+      "fixed_cost_eur_kw_year": 30.038457647618323,
+      "vom_eur_mwh": 0.2463507959980648
+    },
+    "vrfb_6h": {
+      "duration_h": 6.0,
+      "rte": 0.75,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 2.0,
+      "tech_id": "vrfb",
+      "fixed_cost_eur_kw_year": 58.453546999427566,
+      "vom_eur_mwh": 0.8622277859932268
+    },
+    "caes_8h": {
+      "duration_h": 8.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 1.5,
+      "tech_id": "caes",
+      "fixed_cost_eur_kw_year": 42.379870000385594,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "fecr_flow_8h": {
+      "duration_h": 8.0,
+      "rte": 0.72,
+      "self_discharge_pct_day": 0.02,
+      "charge_power_ratio": 2.0,
+      "tech_id": "fecr_flow",
+      "fixed_cost_eur_kw_year": 73.4403420445556,
+      "vom_eur_mwh": 0.8603736479842675
+    },
+    "gravity_8h": {
+      "duration_h": 8.0,
+      "rte": 0.8,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 1.5,
+      "tech_id": "gravity",
+      "fixed_cost_eur_kw_year": 121.27825463100613,
+      "vom_eur_mwh": 0.8603736479842675
+    },
+    "laes_8h": {
+      "duration_h": 8.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.08,
+      "charge_power_ratio": 1.5,
+      "tech_id": "laes",
+      "fixed_cost_eur_kw_year": 116.83706549812285,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "li_lfp_8h": {
+      "duration_h": 8.0,
+      "rte": 0.9,
+      "self_discharge_pct_day": 0.03,
+      "charge_power_ratio": 1.0,
+      "tech_id": "li_lfp",
+      "fixed_cost_eur_kw_year": 38.86841243912346,
+      "vom_eur_mwh": 0.2463507959980648
+    },
+    "molten_salt_tes_8h": {
+      "duration_h": 8.0,
+      "rte": 0.45,
+      "self_discharge_pct_day": 0.4,
+      "charge_power_ratio": 1.5,
+      "tech_id": "molten_salt_tes",
+      "fixed_cost_eur_kw_year": 79.01288753373196,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "vrfb_8h": {
+      "duration_h": 8.0,
+      "rte": 0.75,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 2.0,
+      "tech_id": "vrfb",
+      "fixed_cost_eur_kw_year": 65.65002767348193,
+      "vom_eur_mwh": 0.8622277859932268
+    },
+    "caes_10h": {
+      "duration_h": 10.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 1.5,
+      "tech_id": "caes",
+      "fixed_cost_eur_kw_year": 42.77527384879285,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "fecr_flow_10h": {
+      "duration_h": 10.0,
+      "rte": 0.72,
+      "self_discharge_pct_day": 0.02,
+      "charge_power_ratio": 2.0,
+      "tech_id": "fecr_flow",
+      "fixed_cost_eur_kw_year": 80.92165097199513,
+      "vom_eur_mwh": 0.8603736479842675
+    },
+    "gravity_10h": {
+      "duration_h": 10.0,
+      "rte": 0.8,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 1.5,
+      "tech_id": "gravity",
+      "fixed_cost_eur_kw_year": 136.04176450082014,
+      "vom_eur_mwh": 0.8603736479842675
+    },
+    "laes_10h": {
+      "duration_h": 10.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.08,
+      "charge_power_ratio": 1.5,
+      "tech_id": "laes",
+      "fixed_cost_eur_kw_year": 121.9633584785283,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "li_lfp_10h": {
+      "duration_h": 10.0,
+      "rte": 0.9,
+      "self_discharge_pct_day": 0.03,
+      "charge_power_ratio": 1.0,
+      "tech_id": "li_lfp",
+      "fixed_cost_eur_kw_year": 47.720033880070595,
+      "vom_eur_mwh": 0.2463507959980648
+    },
+    "molten_salt_tes_10h": {
+      "duration_h": 10.0,
+      "rte": 0.45,
+      "self_discharge_pct_day": 0.4,
+      "charge_power_ratio": 1.5,
+      "tech_id": "molten_salt_tes",
+      "fixed_cost_eur_kw_year": 81.96055984319509,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "caes_12h": {
+      "duration_h": 12.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 1.5,
+      "tech_id": "caes",
+      "fixed_cost_eur_kw_year": 43.054418602347255,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "fecr_flow_12h": {
+      "duration_h": 12.0,
+      "rte": 0.72,
+      "self_discharge_pct_day": 0.02,
+      "charge_power_ratio": 2.0,
+      "tech_id": "fecr_flow",
+      "fixed_cost_eur_kw_year": 88.40295989943469,
+      "vom_eur_mwh": 0.8603736479842675
+    },
+    "gravity_12h": {
+      "duration_h": 12.0,
+      "rte": 0.8,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 1.5,
+      "tech_id": "gravity",
+      "fixed_cost_eur_kw_year": 150.80527437063418,
+      "vom_eur_mwh": 0.8603736479842675
+    },
+    "laes_12h": {
+      "duration_h": 12.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.08,
+      "charge_power_ratio": 1.5,
+      "tech_id": "laes",
+      "fixed_cost_eur_kw_year": 127.08965145893373,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "molten_salt_tes_12h": {
+      "duration_h": 12.0,
+      "rte": 0.45,
+      "self_discharge_pct_day": 0.4,
+      "charge_power_ratio": 1.5,
+      "tech_id": "molten_salt_tes",
+      "fixed_cost_eur_kw_year": 84.90823215265819,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "caes_14h": {
+      "duration_h": 14.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 1.5,
+      "tech_id": "caes",
+      "fixed_cost_eur_kw_year": 43.318628505980534,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "laes_14h": {
+      "duration_h": 14.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.08,
+      "charge_power_ratio": 1.5,
+      "tech_id": "laes",
+      "fixed_cost_eur_kw_year": 132.21594443933915,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "molten_salt_tes_14h": {
+      "duration_h": 14.0,
+      "rte": 0.45,
+      "self_discharge_pct_day": 0.4,
+      "charge_power_ratio": 1.5,
+      "tech_id": "molten_salt_tes",
+      "fixed_cost_eur_kw_year": 87.85590446212129,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "caes_16h": {
+      "duration_h": 16.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 1.5,
+      "tech_id": "caes",
+      "fixed_cost_eur_kw_year": 43.56790355969265,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "laes_16h": {
+      "duration_h": 16.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.08,
+      "charge_power_ratio": 1.5,
+      "tech_id": "laes",
+      "fixed_cost_eur_kw_year": 137.3422374197446,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "molten_salt_tes_16h": {
+      "duration_h": 16.0,
+      "rte": 0.45,
+      "self_discharge_pct_day": 0.4,
+      "charge_power_ratio": 1.5,
+      "tech_id": "molten_salt_tes",
+      "fixed_cost_eur_kw_year": 90.8035767715844,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "caes_18h": {
+      "duration_h": 18.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 1.5,
+      "tech_id": "caes",
+      "fixed_cost_eur_kw_year": 43.80224376348363,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "laes_18h": {
+      "duration_h": 18.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.08,
+      "charge_power_ratio": 1.5,
+      "tech_id": "laes",
+      "fixed_cost_eur_kw_year": 142.46853040015006,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "caes_20h": {
+      "duration_h": 20.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 1.5,
+      "tech_id": "caes",
+      "fixed_cost_eur_kw_year": 44.02164911735348,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "laes_20h": {
+      "duration_h": 20.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.08,
+      "charge_power_ratio": 1.5,
+      "tech_id": "laes",
+      "fixed_cost_eur_kw_year": 147.59482338055548,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "caes_22h": {
+      "duration_h": 22.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 1.5,
+      "tech_id": "caes",
+      "fixed_cost_eur_kw_year": 44.226119621302175,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "laes_22h": {
+      "duration_h": 22.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.08,
+      "charge_power_ratio": 1.5,
+      "tech_id": "laes",
+      "fixed_cost_eur_kw_year": 152.72111636096088,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "caes_24h": {
+      "duration_h": 24.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.01,
+      "charge_power_ratio": 1.5,
+      "tech_id": "caes",
+      "fixed_cost_eur_kw_year": 44.41565527532973,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "h2_tank_24h": {
+      "duration_h": 24.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 109.4826480364474,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "laes_24h": {
+      "duration_h": 24.0,
+      "rte": 0.55,
+      "self_discharge_pct_day": 0.08,
+      "charge_power_ratio": 1.5,
+      "tech_id": "laes",
+      "fixed_cost_eur_kw_year": 157.84740934136633,
+      "vom_eur_mwh": 1.720747295968535
+    },
+    "h2_tank_28h": {
+      "duration_h": 28.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 119.54883925435752,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_32h": {
+      "duration_h": 32.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 129.61503047226762,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_36h": {
+      "duration_h": 36.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 139.68122169017775,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_40h": {
+      "duration_h": 40.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 149.74741290808788,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_44h": {
+      "duration_h": 44.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 159.81360412599798,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_48h": {
+      "duration_h": 48.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 169.8797953439081,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_60h": {
+      "duration_h": 60.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 200.07836899763845,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_72h": {
+      "duration_h": 72.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 230.2769426513688,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_96h": {
+      "duration_h": 96.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 290.67408995882954,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_100h": {
+      "duration_h": 100.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 300.74028117673964,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_120h": {
+      "duration_h": 120.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 351.07123726629027,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_144h": {
+      "duration_h": 144.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 411.46838457375094,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_168h": {
+      "duration_h": 168.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 471.86553188121167,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_240h": {
+      "duration_h": 240.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 653.0569738035938,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_336h": {
+      "duration_h": 336.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 894.6455630334367,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_720h": {
+      "duration_h": 720.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 1860.9999199528083,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_4h": {
+      "duration_h": 4.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 59.1516919468968,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_8h": {
+      "duration_h": 8.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 69.2178831648069,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_12h": {
+      "duration_h": 12.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 79.28407438271705,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_16h": {
+      "duration_h": 16.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 89.35026560062715,
+      "vom_eur_mwh": 3.072763028515241
+    },
+    "h2_tank_20h": {
+      "duration_h": 20.0,
+      "rte": 0.3207869390882381,
+      "self_discharge_pct_day": 0.0,
+      "charge_power_ratio": 3.0,
+      "tech_id": "h2_tank",
+      "fixed_cost_eur_kw_year": 99.41645681853727,
+      "vom_eur_mwh": 3.072763028515241
+    }
+  },
+  "retained_technologies": [
+    "li_lfp_4h",
+    "vrfb_4h",
+    "li_lfp_6h",
+    "vrfb_6h",
+    "caes_8h",
+    "fecr_flow_8h",
+    "gravity_8h",
+    "laes_8h",
+    "li_lfp_8h",
+    "molten_salt_tes_8h",
+    "vrfb_8h",
+    "caes_10h",
+    "fecr_flow_10h",
+    "gravity_10h",
+    "laes_10h",
+    "li_lfp_10h",
+    "molten_salt_tes_10h",
+    "caes_12h",
+    "fecr_flow_12h",
+    "gravity_12h",
+    "laes_12h",
+    "molten_salt_tes_12h",
+    "caes_14h",
+    "laes_14h",
+    "molten_salt_tes_14h",
+    "caes_16h",
+    "laes_16h",
+    "molten_salt_tes_16h",
+    "caes_18h",
+    "laes_18h",
+    "caes_20h",
+    "laes_20h",
+    "caes_22h",
+    "laes_22h",
+    "caes_24h",
+    "laes_24h"
+  ],
+  "currency_policy": "retain v85 source-price convention and FX 1.13 USD/EUR",
+  "learning_curve": "dataset/M2_LDES_learning_cost_curves_v0_7.csv",
+  "scope": "Hydrogen storage medium only; A-CAES and all other technologies retain v85 parameters"
+}

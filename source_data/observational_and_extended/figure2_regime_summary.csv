@@ -1,4 +1,0 @@
-regime,n_system_years,n_systems,event_run_min_days,event_run_median_days,event_run_max_days,spearman_rho_task_vs_event,median_recovery_dispersed_h,median_recovery_clustered_h,zero_window_clustered_pct
-Europe,132,15,4,7,23,-0.62051620393390416,72,0,74.72527472527473
-China,26,26,3,4,6,0.32438682480015429,72,0,74.72527472527473
-Japan,27,19,6,11,21,0.099554737664168405,72,0,74.72527472527473

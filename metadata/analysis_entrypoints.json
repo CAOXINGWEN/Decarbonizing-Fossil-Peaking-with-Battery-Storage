@@ -1,11 +1,34 @@
 {
-  "weather_inputs": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/weather_year_parity_v42/build_pecd_v42_hourly_panel.py",
-  "natural_year_dispatch": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/weather_year_parity_v42/compute_pecd_v42_75y_parity.py",
-  "efc_postprocessing": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue1_v67/scripts/build_efc_sources.py",
-  "capacity_expansion": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue2_v68/scripts/run_capacity_v68.py",
-  "capacity_summary": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue2_v68/scripts/assemble_results_v68.py",
-  "main_efc_figures": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue1_v67/scripts/plot_v67_figures.py",
-  "procurement_figures": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue2_v68/scripts/plot_procurement_v68.py",
-  "supplementary_figures": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/revision_issue1_v67/scripts/plot_streamlined_supplements_v67.py",
-  "extended_data_figures": "Decarbonizing-Fossil-Peaking-with-Battery-Storage-master/paper-code/docs/musrcipt/revision_nature_energy_v62/figure_revision_v69/scripts/plot_revised_figures.py"
+  "quick_verification": "reproducibility/verify_joule_results.py",
+  "preprocessing": {
+    "china_curtailment_and_load": "code/preprocessing_and_regimes/china_reconstruct_charging.py",
+    "europe_national_grids": "code/preprocessing_and_regimes/europe_inputs.py",
+    "japan_5306_communities": "code/preprocessing_and_regimes/japan_extract_and_verify_5306.py",
+    "europe_75yr_demand_validation": "code/preprocessing_and_regimes/europe_75yr_demand_validation.py"
+  },
+  "dispatch_and_chronology": {
+    "hourly_dispatch_solver": "code/dispatch_and_chronology/hourly_dispatch_oracle.py",
+    "china_conditional_rearrangement": "code/dispatch_and_chronology/china_mc_rearrangement.py",
+    "europe_conditional_rearrangement": "code/dispatch_and_chronology/europe_dispatch_and_mc.py",
+    "japan_historical_dispatch": "code/dispatch_and_chronology/japan_10612_historical_dispatch.py",
+    "japan_conditional_rearrangement": "code/dispatch_and_chronology/japan_10612_mc_rearrangement.py",
+    "event_extension_and_factorial": "code/dispatch_and_chronology/japan_10612_extension_and_factorial.py"
+  },
+  "technology_catalog_and_planning": {
+    "catalog_58_evaluation": "code/technology_catalog_and_capacity/recompute_58_catalog.py",
+    "multiyear_capacity_planning_cvar90": "code/technology_catalog_and_capacity/multiyear_capacity_planning.py",
+    "equal_energy_service_valuation": "code/technology_catalog_and_capacity/collect_service_valuation_and_diagnostics.py",
+    "duration_cost_decomposition": "code/technology_catalog_and_capacity/analyse_duration_cost_decomposition.py"
+  },
+  "robustness_checks": "code/robustness/run_joule_robustness_checks.py",
+  "figures_and_tables": {
+    "build_all_joule_figures": "code/figures/build_joule_figures.py",
+    "main_figure_1": "code/figures/fig1.py",
+    "main_figure_2": "code/figures/fig2.py",
+    "main_figure_3": "code/figures/fig3.py",
+    "main_figure_4": "code/figures/fig4.py",
+    "main_figure_5": "code/figures/figure_r5.py",
+    "supplemental_figures_s5_s19": "code/figures/restore_figures.py",
+    "table_1": "code/figures/table1.py"
+  }
 }

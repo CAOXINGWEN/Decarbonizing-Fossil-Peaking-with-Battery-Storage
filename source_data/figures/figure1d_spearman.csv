@@ -1,0 +1,11 @@
+predictor,response,group,n,spearman_rho,observation_unit
+mean_dur,efc_acaes,equal_regime,11054,-0.8543800876752284,equal-regime weighted
+mean_dur,efc_acaes,all_pooled,11054,-0.48382505202806836,annual record
+mean_dur,efc_acaes,provincial,310,-0.1919988504265245,annual record
+mean_dur,efc_acaes,national,132,-0.7312708602163842,annual record
+mean_dur,efc_acaes,community,10612,-0.4194316272633064,annual record
+charge_hours,efc_acaes,equal_regime,11054,0.13066994316449587,equal-regime weighted
+charge_hours,efc_acaes,all_pooled,11054,0.1116576501809622,annual record
+charge_hours,efc_acaes,provincial,310,0.818553615749734,annual record
+charge_hours,efc_acaes,national,132,0.5967652096737521,annual record
+charge_hours,efc_acaes,community,10612,0.14763782517139312,annual record

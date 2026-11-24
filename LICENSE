@@ -1,0 +1,12 @@
+MIT License (Code) & CC-BY-4.0 (Processed Source Data)
+
+Copyright (c) 2026 Xingwen Cao and Haoran Zhang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the software and associated scripts in this repository to deal in the Software
+without restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software, subject
+to the standard MIT License terms.
+
+Processed source data tables in `source_data/` and `parameters/` are licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).

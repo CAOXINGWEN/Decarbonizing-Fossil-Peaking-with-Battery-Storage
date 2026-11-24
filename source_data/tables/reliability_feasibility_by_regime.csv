@@ -1,0 +1,10 @@
+regime,chronology,records,ceiling_median,reach_0.9,reach_0.99,reach_0.999,reach_0.9999,reach_0.99999,reach_1.0
+PLRP,intermittent,26,1.0,23,22,22,22,22,22
+PLRP,observed,26,1.0,23,22,22,22,22,22
+PLRP,persistent,26,1.0,23,22,22,22,22,22
+NVSB,intermittent,132,1.0,76,73,72,72,72,72
+NVSB,observed,132,1.0,76,72,71,71,71,71
+NVSB,persistent,132,1.0,76,72,71,71,71,71
+CLDB,intermittent,27,0.5600031395987126,10,10,10,10,10,10
+CLDB,observed,27,0.5585504763763955,10,9,9,9,9,9
+CLDB,persistent,27,0.5598315435976724,10,10,10,10,10,10

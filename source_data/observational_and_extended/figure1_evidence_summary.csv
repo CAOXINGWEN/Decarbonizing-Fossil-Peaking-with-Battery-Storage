@@ -1,7 +1,0 @@
-evidence_layer,regime,metric,value,denominator,numerator,unit
-controlled_regime,China,24h_absolute_shift_median,45.432204018172577,26,26,USD kW^-1 yr^-1
-controlled_regime,Europe,24h_absolute_shift_median,5.0540519563752335,132,52,USD kW^-1 yr^-1
-controlled_regime,Japan,24h_absolute_shift_median,4.1183317896060867,27,7,USD kW^-1 yr^-1
-natural_record,Europe-33,all_weather_pairs_reaching_cost_scale,0.058018018018018001,2775,161,fraction
-natural_record,Europe-33,adverse_decades_erasing_learning,0.046153846153846101,65,3,fraction
-cost_benchmark,common,2025_2035_relative_cost_movement,5.9845230526169217,,,USD kW^-1 yr^-1

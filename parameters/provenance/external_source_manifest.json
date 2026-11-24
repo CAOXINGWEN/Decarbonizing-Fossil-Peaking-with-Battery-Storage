@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Danish Energy Agency, Technology Data for Energy Storage",
+    "url": "https://ens.dk/en/analyses-and-statistics/technology-data-energy-storage",
+    "xlsx_url": "https://ens.dk/media/6589/download",
+    "pdf_url": "https://ens.dk/media/6588/download",
+    "sheet": "151a Hydrogen Storage - Tanks",
+    "physical_chapter_basis_year": 2020,
+    "download_date": "2026-11-14",
+    "sha256_xlsx": "227c63de212697978815a0a6ed86d84527899d2ae309fd411a6a8490fe122405"
+  },
+  {
+    "source": "PNNL-33283 (2022), section 4.9, pp.109-111",
+    "url": "https://www.sandia.gov/app/uploads/sites/256/2024/02/ESGC-Cost-Performance-Report-2022-PNNL-33283.pdf",
+    "used_for": [
+      "19.3 kWh AC/kg H2 output",
+      "72.5% HHV electrolyzer efficiency",
+      "98% transformer and rectifier efficiencies"
+    ],
+    "inspection": "publisher/government document read through web tool; PDF download failed TLS"
+  }
+]

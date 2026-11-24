@@ -1,0 +1,236 @@
+[
+  {
+    "tech": "li_lfp",
+    "label": "LFP",
+    "zh": "LFP 锂电池",
+    "durations": [
+      4.0,
+      6.0,
+      8.0,
+      10.0
+    ],
+    "config_count": 4,
+    "physics": {
+      "rte": [
+        0.9
+      ],
+      "charge_power_ratio": [
+        1.0
+      ],
+      "self_discharge_pct_day": [
+        0.03
+      ],
+      "vom_eur_mwh": [
+        0.2463507959980648
+      ]
+    }
+  },
+  {
+    "tech": "vrfb",
+    "label": "Vanadium flow",
+    "zh": "全钒液流电池",
+    "durations": [
+      4.0,
+      6.0,
+      8.0
+    ],
+    "config_count": 3,
+    "physics": {
+      "rte": [
+        0.75
+      ],
+      "charge_power_ratio": [
+        2.0
+      ],
+      "self_discharge_pct_day": [
+        0.01
+      ],
+      "vom_eur_mwh": [
+        0.8622277859932268
+      ]
+    }
+  },
+  {
+    "tech": "fecr_flow",
+    "label": "Fe-Cr flow",
+    "zh": "铁铬液流电池",
+    "durations": [
+      8.0,
+      10.0,
+      12.0
+    ],
+    "config_count": 3,
+    "physics": {
+      "rte": [
+        0.72
+      ],
+      "charge_power_ratio": [
+        2.0
+      ],
+      "self_discharge_pct_day": [
+        0.02
+      ],
+      "vom_eur_mwh": [
+        0.8603736479842675
+      ]
+    }
+  },
+  {
+    "tech": "gravity",
+    "label": "Gravity",
+    "zh": "重力储能",
+    "durations": [
+      8.0,
+      10.0,
+      12.0
+    ],
+    "config_count": 3,
+    "physics": {
+      "rte": [
+        0.8
+      ],
+      "charge_power_ratio": [
+        1.5
+      ],
+      "self_discharge_pct_day": [
+        0.0
+      ],
+      "vom_eur_mwh": [
+        0.8603736479842675
+      ]
+    }
+  },
+  {
+    "tech": "molten_salt_tes",
+    "label": "Molten-salt thermal",
+    "zh": "熔盐储热",
+    "durations": [
+      8.0,
+      10.0,
+      12.0,
+      14.0,
+      16.0
+    ],
+    "config_count": 5,
+    "physics": {
+      "rte": [
+        0.45
+      ],
+      "charge_power_ratio": [
+        1.5
+      ],
+      "self_discharge_pct_day": [
+        0.4
+      ],
+      "vom_eur_mwh": [
+        1.720747295968535
+      ]
+    }
+  },
+  {
+    "tech": "caes",
+    "label": "A-CAES",
+    "zh": "A-CAES",
+    "durations": [
+      8.0,
+      10.0,
+      12.0,
+      14.0,
+      16.0,
+      18.0,
+      20.0,
+      22.0,
+      24.0
+    ],
+    "config_count": 9,
+    "physics": {
+      "rte": [
+        0.55
+      ],
+      "charge_power_ratio": [
+        1.5
+      ],
+      "self_discharge_pct_day": [
+        0.01
+      ],
+      "vom_eur_mwh": [
+        1.720747295968535
+      ]
+    }
+  },
+  {
+    "tech": "laes",
+    "label": "LAES",
+    "zh": "液态空气储能",
+    "durations": [
+      8.0,
+      10.0,
+      12.0,
+      14.0,
+      16.0,
+      18.0,
+      20.0,
+      22.0,
+      24.0
+    ],
+    "config_count": 9,
+    "physics": {
+      "rte": [
+        0.55
+      ],
+      "charge_power_ratio": [
+        1.5
+      ],
+      "self_discharge_pct_day": [
+        0.08
+      ],
+      "vom_eur_mwh": [
+        1.720747295968535
+      ]
+    }
+  },
+  {
+    "tech": "h2_tank",
+    "label": "Hydrogen",
+    "zh": "氢储能",
+    "durations": [
+      4.0,
+      8.0,
+      12.0,
+      16.0,
+      20.0,
+      24.0,
+      28.0,
+      32.0,
+      36.0,
+      40.0,
+      44.0,
+      48.0,
+      60.0,
+      72.0,
+      96.0,
+      100.0,
+      120.0,
+      144.0,
+      168.0,
+      240.0,
+      336.0,
+      720.0
+    ],
+    "config_count": 22,
+    "physics": {
+      "rte": [
+        0.3207869390882381
+      ],
+      "charge_power_ratio": [
+        3.0
+      ],
+      "self_discharge_pct_day": [
+        0.0
+      ],
+      "vom_eur_mwh": [
+        3.072763028515241
+      ]
+    }
+  }
+]

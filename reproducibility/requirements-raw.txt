@@ -1,3 +1,0 @@
--r requirements-core.txt
-pyarrow>=14
-geopandas>=0.14

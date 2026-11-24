@@ -1,0 +1,25 @@
+tech,label,group,n,best_group_mean_duration,best_group_mean_B,record_best_median,record_best_min,record_best_max,lower_boundary_count,upper_boundary_count,records_ever_cheaper_than_lfp
+li_lfp,LFP,provincial,310,4.0,0.0,4.0,4.0,10.0,252,29,58
+li_lfp,LFP,national,132,4.0,0.0,4.0,4.0,10.0,125,4,7
+li_lfp,LFP,community,10612,4.0,0.0,4.0,4.0,4.0,10612,0,0
+vrfb,Vanadium flow,provincial,310,4.0,-42.15401120807897,4.0,4.0,8.0,238,54,3
+vrfb,Vanadium flow,national,132,4.0,-41.89214015307408,4.0,4.0,8.0,123,6,1
+vrfb,Vanadium flow,community,10612,4.0,-40.52767602998258,4.0,4.0,8.0,9889,5,0
+fecr_flow,Fe-Cr flow,provincial,310,8.0,-57.595312269882726,8.0,8.0,12.0,269,29,1
+fecr_flow,Fe-Cr flow,national,132,8.0,-56.713095746432145,8.0,8.0,12.0,128,2,0
+fecr_flow,Fe-Cr flow,community,10612,8.0,-52.40309008543518,8.0,8.0,8.0,10612,0,0
+gravity,Gravity,provincial,310,8.0,-111.47983984484787,8.0,8.0,12.0,301,4,0
+gravity,Gravity,national,132,8.0,-110.85452004363471,8.0,8.0,10.0,130,0,0
+gravity,Gravity,community,10612,8.0,-107.44465103647745,8.0,8.0,8.0,10612,0,0
+molten_salt_tes,Molten-salt thermal,provincial,310,8.0,-66.08911174409326,8.0,8.0,16.0,258,32,4
+molten_salt_tes,Molten-salt thermal,national,132,10.0,-66.47238668192888,8.0,8.0,16.0,82,13,0
+molten_salt_tes,Molten-salt thermal,community,10612,10.0,-68.37895604912444,10.0,8.0,16.0,2949,80,0
+caes,A-CAES,provincial,310,24.0,-13.749832353934856,8.0,8.0,24.0,170,133,67
+caes,A-CAES,national,132,24.0,-3.208720571523641,24.0,24.0,24.0,0,132,24
+caes,A-CAES,community,10612,24.0,-2.95655338906819,24.0,8.0,24.0,6,10598,1468
+laes,LAES,provincial,310,8.0,-107.79190644072742,8.0,8.0,24.0,264,5,0
+laes,LAES,national,132,8.0,-108.01928089982565,8.0,8.0,22.0,128,0,0
+laes,LAES,community,10612,8.0,-108.21243136116104,8.0,8.0,8.0,10612,0,0
+h2_tank,Hydrogen,provincial,310,4.0,-52.92353764159208,4.0,4.0,32.0,238,0,7
+h2_tank,Hydrogen,national,132,4.0,-53.44303641326572,4.0,4.0,24.0,123,0,0
+h2_tank,Hydrogen,community,10612,4.0,-55.846710624447354,4.0,4.0,8.0,10601,0,0

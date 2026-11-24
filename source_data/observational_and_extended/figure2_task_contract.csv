@@ -1,4 +1,0 @@
-regime,spatial_unit,system_years,hourly_observations,task_definition,recharge_definition,annual_task_value,annual_task_unit,event_task_share_pct
-Europe,15 countries,132,1156320,fossil-gas generation above month-hour q10,synchronous wind-solar surplus,1301.5447656737488,TWh,49.148282634572162
-China,26 provinces,26,227760,observed gas-peaking output,hourly wind-solar curtailment,10.7128717709592,TWh,83.037641318554108
-Japan,19 community grids,27,236520,community grid import above month-hour q10,distributed-PV reverse flow,974.81129699999235,MWh,49.825836086920312

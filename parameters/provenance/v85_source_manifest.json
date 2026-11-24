@@ -1,0 +1,22 @@
+[
+  {
+    "path": "dataset/M2_LDES_learning_cost_curves_v0_7.csv",
+    "sha256": "45f3bc79b805863e8dbab2b600643f69a871b669a8bff45c2cf762a7032a2b5c",
+    "bytes": 209907
+  },
+  {
+    "path": "dataset/M2_LDES_duration_year_parameter_library_v0_2_replacement_aware.csv",
+    "sha256": "c1c93719d17d664455810ce7498750976a16742e5be8794f9364d41f43831a67",
+    "bytes": 481960
+  },
+  {
+    "path": "submission/Nature_Energy_v85/manuscript/musript_new_v85.pdf",
+    "sha256": "668bbc07f029913cdc636807e174c57c33877dfb4fdd550149e5351deac7c598",
+    "bytes": 1224577
+  },
+  {
+    "path": "submission/Nature_Energy_v85/manuscript/v85_assets/supp_cost_boundary.tex",
+    "sha256": "8d0de79cce85878292f5b7008283556b19cc349b85d59fb74ace43127961dcb5",
+    "bytes": 1117
+  }
+]
